@@ -1,1 +1,2445 @@
+<<<<<<< HEAD
 test
+=======
+[
+  {
+    "time": "09:10 am",
+    "participant1": "Chang Ho Lee",
+    "odds1": "-108",
+    "participant2": "Xiao Long",
+    "odds2": "-112",
+    "overUnder": {
+      "over": "-245",
+      "under": "+195"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490412679",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-185"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+145"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Xiao Long by Points",
+            "oddsValue": "+165"
+          },
+          {
+            "participantName": "Xiao Long by Submission",
+            "oddsValue": "+750"
+          },
+          {
+            "participantName": "Chang Ho Lee by KO/TKO or DQ",
+            "oddsValue": "+425"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Xiao Long by KO/TKO or DQ",
+            "oddsValue": "+750"
+          },
+          {
+            "participantName": "Chang Ho Lee by Points",
+            "oddsValue": "+210"
+          },
+          {
+            "participantName": "Chang Ho Lee by Submission",
+            "oddsValue": "+800"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Xiao Long in Round 1",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Xiao Long in Round 3",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 1",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 3",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Xiao Long in Round 2",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Xiao Long by Points",
+            "oddsValue": "+165"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 2",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Chang Ho Lee by Points",
+            "oddsValue": "+210"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Xiao Long in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Xiao Long in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+3000"
+          },
+          {
+            "participantName": "Xiao Long in Round 2 by Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Xiao Long by Points",
+            "oddsValue": "+165"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 1 by Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 3 by Submission",
+            "oddsValue": "+3000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Xiao Long in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Xiao Long in Round 1 by Submission",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Xiao Long in Round 3 by Submission",
+            "oddsValue": "+3000"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Chang Ho Lee in Round 2 by Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Chang Ho Lee by Points",
+            "oddsValue": "+210"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Xiao Long",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Chang Ho Lee",
+            "oddsValue": "-130"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Xiao Long",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "-185"
+          },
+          {
+            "participantName": "Chang Ho Lee",
+            "oddsValue": "+260"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-325"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Xiao Long Wins by Unanimous Decision",
+            "oddsValue": "+185"
+          },
+          {
+            "participantName": "Chang Ho Lee Wins by Unanimous Decision",
+            "oddsValue": "+240"
+          },
+          {
+            "participantName": "Xiao Long Wins by Split or Majority Decision",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Chang Ho Lee Wins by Split or Majority Decision",
+            "oddsValue": "+600"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "09:40 am",
+    "participant1": "Brendson Ribeiro",
+    "odds1": "+280",
+    "participant2": "Magomed Gadzhiyasulov",
+    "odds2": "-340",
+    "overUnder": {
+      "over": "+180",
+      "under": "-220"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490400432",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-800"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Magomed Gadzhiyasulov by Points",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov by Submission",
+            "oddsValue": "+425"
+          },
+          {
+            "participantName": "Brendson Ribeiro by KO/TKO or DQ",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov by KO/TKO or DQ",
+            "oddsValue": "-130"
+          },
+          {
+            "participantName": "Brendson Ribeiro by Points",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Brendson Ribeiro by Submission",
+            "oddsValue": "+1000"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 1",
+            "oddsValue": "-140"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 3",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 1",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 3",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 2",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov by Points",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 2",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Brendson Ribeiro by Points",
+            "oddsValue": "+1100"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+125"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 2 by Submission",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov by Points",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 1 by Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 3 by Submission",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 1 by Submission",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov in Round 3 by Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+950"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Brendson Ribeiro in Round 2 by Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Brendson Ribeiro by Points",
+            "oddsValue": "+1100"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Magomed Gadzhiyasulov",
+            "oddsValue": "-400"
+          },
+          {
+            "participantName": "Brendson Ribeiro",
+            "oddsValue": "+300"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Magomed Gadzhiyasulov -3.5 Pts",
+            "oddsValue": "-325"
+          },
+          {
+            "participantName": "Brendson Ribeiro 3.5 Pts",
+            "oddsValue": "+250"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Magomed Gadzhiyasulov",
+            "oddsValue": "-300"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Brendson Ribeiro",
+            "oddsValue": "+375"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-2000"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Magomed Gadzhiyasulov Wins by Unanimous Decision",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Brendson Ribeiro Wins by Unanimous Decision",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Magomed Gadzhiyasulov Wins by Split or Majority Decision",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Brendson Ribeiro Wins by Split or Majority Decision",
+            "oddsValue": "+2200"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "10:10 am",
+    "participant1": "Muin Gafurov",
+    "odds1": "-161",
+    "participant2": "Kyung Ho Kang",
+    "odds2": "+141",
+    "overUnder": {
+      "over": "-185",
+      "under": "+155"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490412678",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-155"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+125"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Kyung Ho Kang by Points",
+            "oddsValue": "+215"
+          },
+          {
+            "participantName": "Kyung Ho Kang by Submission",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Muin Gafurov by KO/TKO or DQ",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kyung Ho Kang by KO/TKO or DQ",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Muin Gafurov by Points",
+            "oddsValue": "+175"
+          },
+          {
+            "participantName": "Muin Gafurov by Submission",
+            "oddsValue": "+900"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Kyung Ho Kang in Round 1",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Kyung Ho Kang in Round 3",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 1",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 3",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kyung Ho Kang in Round 2",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Kyung Ho Kang by Points",
+            "oddsValue": "+215"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 2",
+            "oddsValue": "+750"
+          },
+          {
+            "participantName": "Muin Gafurov by Points",
+            "oddsValue": "+175"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Kyung Ho Kang in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Kyung Ho Kang in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Kyung Ho Kang in Round 2 by Submission",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Kyung Ho Kang by Points",
+            "oddsValue": "+215"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+1250"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 1 by Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 3 by Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kyung Ho Kang in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Kyung Ho Kang in Round 1 by Submission",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Kyung Ho Kang in Round 3 by Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Muin Gafurov in Round 2 by Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Muin Gafurov by Points",
+            "oddsValue": "+175"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Kyung Ho Kang",
+            "oddsValue": "+110"
+          },
+          {
+            "participantName": "Muin Gafurov",
+            "oddsValue": "-140"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Kyung Ho Kang 3.5 Pts",
+            "oddsValue": "-180"
+          },
+          {
+            "participantName": "Muin Gafurov -3.5 Pts",
+            "oddsValue": "+150"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Kyung Ho Kang",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "-155"
+          },
+          {
+            "participantName": "Muin Gafurov",
+            "oddsValue": "+245"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+275"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-350"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Kyung Ho Kang Wins by Unanimous Decision",
+            "oddsValue": "+245"
+          },
+          {
+            "participantName": "Muin Gafurov Wins by Unanimous Decision",
+            "oddsValue": "+195"
+          },
+          {
+            "participantName": "Kyung Ho Kang Wins by Split or Majority Decision",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Muin Gafurov Wins by Split or Majority Decision",
+            "oddsValue": "+550"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "10:40 am",
+    "participant1": "Nicolas Dalby",
+    "odds1": "+285",
+    "participant2": "Rinat Fakhretdinov",
+    "odds2": "-350",
+    "overUnder": {
+      "over": "-210",
+      "under": "+170"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490400424",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-165"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+135"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Rinat Fakhretdinov by Points",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov by Submission",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Nicolas Dalby by KO/TKO or DQ",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov by KO/TKO or DQ",
+            "oddsValue": "+425"
+          },
+          {
+            "participantName": "Nicolas Dalby by Points",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Nicolas Dalby by Submission",
+            "oddsValue": "+1600"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Rinat Fakhretdinov in Round 1",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov in Round 3",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 1",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 3",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov in Round 2",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov by Points",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 2",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Nicolas Dalby by Points",
+            "oddsValue": "+500"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Rinat Fakhretdinov in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov in Round 2 by Submission",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov by Points",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 1 by Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 3 by Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov in Round 1 by Submission",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov in Round 3 by Submission",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Nicolas Dalby in Round 2 by Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Nicolas Dalby by Points",
+            "oddsValue": "+500"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Rinat Fakhretdinov",
+            "oddsValue": "-325"
+          },
+          {
+            "participantName": "Nicolas Dalby",
+            "oddsValue": "+250"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Rinat Fakhretdinov -3.5 Pts",
+            "oddsValue": "-155"
+          },
+          {
+            "participantName": "Nicolas Dalby 3.5 Pts",
+            "oddsValue": "+125"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Rinat Fakhretdinov",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "-165"
+          },
+          {
+            "participantName": "Nicolas Dalby",
+            "oddsValue": "+750"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-600"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Rinat Fakhretdinov Wins by Unanimous Decision",
+            "oddsValue": "-105"
+          },
+          {
+            "participantName": "Nicolas Dalby Wins by Unanimous Decision",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Rinat Fakhretdinov Wins by Split or Majority Decision",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Nicolas Dalby Wins by Split or Majority Decision",
+            "oddsValue": "+1000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "11:10 am",
+    "participant1": "Felipe Lima",
+    "odds1": "-113",
+    "participant2": "Muhammad Naimov",
+    "odds2": "-107",
+    "overUnder": {
+      "over": "-200",
+      "under": "+160"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490416389",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-105"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-125"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Muhammad Naimov by Points",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Muhammad Naimov by Submission",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Felipe Lima by KO/TKO or DQ",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Muhammad Naimov by KO/TKO or DQ",
+            "oddsValue": "+260"
+          },
+          {
+            "participantName": "Felipe Lima by Points",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Felipe Lima by Submission",
+            "oddsValue": "+800"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Muhammad Naimov in Round 1",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Muhammad Naimov in Round 3",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Felipe Lima in Round 1",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Felipe Lima in Round 3",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Muhammad Naimov in Round 2",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Muhammad Naimov by Points",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Felipe Lima in Round 2",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Felipe Lima by Points",
+            "oddsValue": "+250"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Muhammad Naimov",
+            "oddsValue": "-165"
+          },
+          {
+            "participantName": "Felipe Lima",
+            "oddsValue": "+135"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Muhammad Naimov in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Muhammad Naimov in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Muhammad Naimov in Round 2 by Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Muhammad Naimov by Points",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Felipe Lima in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Felipe Lima in Round 1 by Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Felipe Lima in Round 3 by Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Muhammad Naimov in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Muhammad Naimov in Round 1 by Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Muhammad Naimov in Round 3 by Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Felipe Lima in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Felipe Lima in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Felipe Lima in Round 2 by Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Felipe Lima by Points",
+            "oddsValue": "+250"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Muhammad Naimov",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "-105"
+          },
+          {
+            "participantName": "Felipe Lima",
+            "oddsValue": "+275"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+300"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-400"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Muhammad Naimov Wins by Unanimous Decision",
+            "oddsValue": "+280"
+          },
+          {
+            "participantName": "Felipe Lima Wins by Unanimous Decision",
+            "oddsValue": "+280"
+          },
+          {
+            "participantName": "Muhammad Naimov Wins by Split or Majority Decision",
+            "oddsValue": "+625"
+          },
+          {
+            "participantName": "Felipe Lima Wins by Split or Majority Decision",
+            "oddsValue": "+625"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "11:40 am",
+    "participant1": "Jared Gordon",
+    "odds1": "+195",
+    "participant2": "Nasrat Haqparast",
+    "odds2": "-230",
+    "overUnder": {
+      "over": "-210",
+      "under": "+170"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490400420",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-180"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+150"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Nasrat Haqparast by Points",
+            "oddsValue": "+125"
+          },
+          {
+            "participantName": "Nasrat Haqparast by Submission",
+            "oddsValue": "+3000"
+          },
+          {
+            "participantName": "Jared Gordon by KO/TKO or DQ",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Nasrat Haqparast by KO/TKO or DQ",
+            "oddsValue": "+170"
+          },
+          {
+            "participantName": "Jared Gordon by Points",
+            "oddsValue": "+325"
+          },
+          {
+            "participantName": "Jared Gordon by Submission",
+            "oddsValue": "+1500"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Nasrat Haqparast in Round 1",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Nasrat Haqparast in Round 3",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Jared Gordon in Round 1",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Jared Gordon in Round 3",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Nasrat Haqparast in Round 2",
+            "oddsValue": "+575"
+          },
+          {
+            "participantName": "Nasrat Haqparast by Points",
+            "oddsValue": "+125"
+          },
+          {
+            "participantName": "Jared Gordon in Round 2",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Jared Gordon by Points",
+            "oddsValue": "+325"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Nasrat Haqparast in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Nasrat Haqparast in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Nasrat Haqparast in Round 2 by Submission",
+            "oddsValue": "+6000"
+          },
+          {
+            "participantName": "Nasrat Haqparast by Points",
+            "oddsValue": "+125"
+          },
+          {
+            "participantName": "Jared Gordon in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Jared Gordon in Round 1 by Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Jared Gordon in Round 3 by Submission",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Nasrat Haqparast in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Nasrat Haqparast in Round 1 by Submission",
+            "oddsValue": "+5500"
+          },
+          {
+            "participantName": "Nasrat Haqparast in Round 3 by Submission",
+            "oddsValue": "+7000"
+          },
+          {
+            "participantName": "Jared Gordon in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+1900"
+          },
+          {
+            "participantName": "Jared Gordon in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Jared Gordon in Round 2 by Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Jared Gordon by Points",
+            "oddsValue": "+325"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Nasrat Haqparast",
+            "oddsValue": "-275"
+          },
+          {
+            "participantName": "Jared Gordon",
+            "oddsValue": "+215"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Nasrat Haqparast -3.5 Pts",
+            "oddsValue": "-125"
+          },
+          {
+            "participantName": "Jared Gordon 3.5 Pts",
+            "oddsValue": "-105"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Nasrat Haqparast",
+            "oddsValue": "+175"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "-180"
+          },
+          {
+            "participantName": "Jared Gordon",
+            "oddsValue": "+725"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+325"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-450"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Nasrat Haqparast Wins by Unanimous Decision",
+            "oddsValue": "+140"
+          },
+          {
+            "participantName": "Jared Gordon Wins by Unanimous Decision",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Nasrat Haqparast Wins by Split or Majority Decision",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Jared Gordon Wins by Split or Majority Decision",
+            "oddsValue": "+800"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "12:10 pm",
+    "participant1": "Volkan Oezdemir",
+    "odds1": "-106",
+    "participant2": "Johnny Walker",
+    "odds2": "-114",
+    "overUnder": {
+      "over": "-155",
+      "under": "+125"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490400417",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-200"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Johnny Walker by Points",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Johnny Walker by Submission",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Volkan Oezdemir by KO/TKO or DQ",
+            "oddsValue": "+240"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Johnny Walker by KO/TKO or DQ",
+            "oddsValue": "+230"
+          },
+          {
+            "participantName": "Volkan Oezdemir by Points",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Volkan Oezdemir by Submission",
+            "oddsValue": "+900"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Johnny Walker in Round 1",
+            "oddsValue": "+425"
+          },
+          {
+            "participantName": "Johnny Walker in Round 3",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 1",
+            "oddsValue": "+425"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 3",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Johnny Walker in Round 2",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Johnny Walker by Points",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 2",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Volkan Oezdemir by Points",
+            "oddsValue": "+350"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Johnny Walker",
+            "oddsValue": "-115"
+          },
+          {
+            "participantName": "Volkan Oezdemir",
+            "oddsValue": "-115"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-600"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Johnny Walker in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+575"
+          },
+          {
+            "participantName": "Johnny Walker in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Johnny Walker in Round 2 by Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Johnny Walker by Points",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 1 by Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 3 by Submission",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Johnny Walker in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Johnny Walker in Round 1 by Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Johnny Walker in Round 3 by Submission",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1150"
+          },
+          {
+            "participantName": "Volkan Oezdemir in Round 2 by Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Volkan Oezdemir by Points",
+            "oddsValue": "+350"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Johnny Walker",
+            "oddsValue": "+170"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "Volkan Oezdemir",
+            "oddsValue": "+170"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Johnny Walker Wins by Unanimous Decision",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Volkan Oezdemir Wins by Unanimous Decision",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Johnny Walker Wins by Split or Majority Decision",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Volkan Oezdemir Wins by Split or Majority Decision",
+            "oddsValue": "+800"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "12:40 pm",
+    "participant1": "Antonio Trocoli",
+    "odds1": "+500",
+    "participant2": "Shara Magomedov",
+    "odds2": "-700",
+    "overUnder": {
+      "over": "+110",
+      "under": "-140"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490417932",
+    "additionalMarkets": []
+  },
+  {
+    "time": "01:10 pm",
+    "participant1": "Daniel Rodriguez",
+    "odds1": "+195",
+    "participant2": "Kelvin Gastelum",
+    "odds2": "-230",
+    "overUnder": {
+      "over": "-265",
+      "under": "+205"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490400401",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-225"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+185"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Kelvin Gastelum by Points",
+            "oddsValue": "-105"
+          },
+          {
+            "participantName": "Kelvin Gastelum by Submission",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Daniel Rodriguez by KO/TKO or DQ",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kelvin Gastelum by KO/TKO or DQ",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Daniel Rodriguez by Points",
+            "oddsValue": "+275"
+          },
+          {
+            "participantName": "Daniel Rodriguez by Submission",
+            "oddsValue": "+1400"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Kelvin Gastelum in Round 1",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Kelvin Gastelum in Round 3",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 1",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 3",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kelvin Gastelum in Round 2",
+            "oddsValue": "+750"
+          },
+          {
+            "participantName": "Kelvin Gastelum by Points",
+            "oddsValue": "-105"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 2",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Daniel Rodriguez by Points",
+            "oddsValue": "+275"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Kelvin Gastelum in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Kelvin Gastelum in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Kelvin Gastelum in Round 2 by Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Kelvin Gastelum by Points",
+            "oddsValue": "-105"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+3000"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 1 by Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 3 by Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kelvin Gastelum in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+1050"
+          },
+          {
+            "participantName": "Kelvin Gastelum in Round 1 by Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Kelvin Gastelum in Round 3 by Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+2400"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Daniel Rodriguez in Round 2 by Submission",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Daniel Rodriguez by Points",
+            "oddsValue": "+275"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Kelvin Gastelum",
+            "oddsValue": "-285"
+          },
+          {
+            "participantName": "Daniel Rodriguez",
+            "oddsValue": "+225"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Kelvin Gastelum -3.5 Pts",
+            "oddsValue": "+110"
+          },
+          {
+            "participantName": "Daniel Rodriguez 3.5 Pts",
+            "oddsValue": "-140"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Kelvin Gastelum",
+            "oddsValue": "+225"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "-225"
+          },
+          {
+            "participantName": "Daniel Rodriguez",
+            "oddsValue": "+700"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+300"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-400"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Kelvin Gastelum Wins by Unanimous Decision",
+            "oddsValue": "+110"
+          },
+          {
+            "participantName": "Daniel Rodriguez Wins by Unanimous Decision",
+            "oddsValue": "+315"
+          },
+          {
+            "participantName": "Kelvin Gastelum Wins by Split or Majority Decision",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Daniel Rodriguez Wins by Split or Majority Decision",
+            "oddsValue": "+700"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "01:40 pm",
+    "participant1": "Alexander Volkov",
+    "odds1": "+200",
+    "participant2": "Sergei Pavlovich",
+    "odds2": "-235",
+    "overUnder": {
+      "over": "+135",
+      "under": "-165"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490400398",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+275"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-350"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Sergei Pavlovich by Points",
+            "oddsValue": "+525"
+          },
+          {
+            "participantName": "Sergei Pavlovich by Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Alexander Volkov by KO/TKO or DQ",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Sergei Pavlovich by KO/TKO or DQ",
+            "oddsValue": "-160"
+          },
+          {
+            "participantName": "Alexander Volkov by Points",
+            "oddsValue": "+525"
+          },
+          {
+            "participantName": "Alexander Volkov by Submission",
+            "oddsValue": "+1400"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Sergei Pavlovich in Round 1",
+            "oddsValue": "+125"
+          },
+          {
+            "participantName": "Sergei Pavlovich in Round 3",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 1",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 3",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Sergei Pavlovich in Round 2",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Sergei Pavlovich by Points",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 2",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Alexander Volkov by Points",
+            "oddsValue": "+525"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Sergei Pavlovich in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+130"
+          },
+          {
+            "participantName": "Sergei Pavlovich in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1050"
+          },
+          {
+            "participantName": "Sergei Pavlovich in Round 2 by Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Sergei Pavlovich by Points",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 1 by Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 3 by Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Sergei Pavlovich in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+565"
+          },
+          {
+            "participantName": "Sergei Pavlovich in Round 1 by Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Sergei Pavlovich in Round 3 by Submission",
+            "oddsValue": "+7000"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Alexander Volkov in Round 2 by Submission",
+            "oddsValue": "+3000"
+          },
+          {
+            "participantName": "Alexander Volkov by Points",
+            "oddsValue": "+525"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Sergei Pavlovich",
+            "oddsValue": "-325"
+          },
+          {
+            "participantName": "Alexander Volkov",
+            "oddsValue": "+250"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Sergei Pavlovich -3.5 Pts",
+            "oddsValue": "-180"
+          },
+          {
+            "participantName": "Alexander Volkov 3.5 Pts",
+            "oddsValue": "+150"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Sergei Pavlovich",
+            "oddsValue": "-170"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "+275"
+          },
+          {
+            "participantName": "Alexander Volkov",
+            "oddsValue": "+340"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-700"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Sergei Pavlovich Wins by Unanimous Decision",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Alexander Volkov Wins by Unanimous Decision",
+            "oddsValue": "+575"
+          },
+          {
+            "participantName": "Sergei Pavlovich Wins by Split or Majority Decision",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Alexander Volkov Wins by Split or Majority Decision",
+            "oddsValue": "+1000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "02:10 pm",
+    "participant1": "Ikram Aliskerov",
+    "odds1": "+130",
+    "participant2": "Robert Whittaker",
+    "odds2": "-150",
+    "overUnder": {
+      "over": "-165",
+      "under": "+135"
+    },
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490413871",
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+180"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-220"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Robert Whittaker by Points",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Robert Whittaker by Submission",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Ikram Aliskerov by KO/TKO or DQ",
+            "oddsValue": "+220"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Robert Whittaker by KO/TKO or DQ",
+            "oddsValue": "+215"
+          },
+          {
+            "participantName": "Ikram Aliskerov by Points",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Ikram Aliskerov by Submission",
+            "oddsValue": "+650"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Robert Whittaker in Round 1",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 3",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 5",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 1",
+            "oddsValue": "+475"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 3",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 5",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 2",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 4",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Robert Whittaker by Points",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 2",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 4",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Ikram Aliskerov by Points",
+            "oddsValue": "+650"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Robert Whittaker in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 5 by KO/TKO or DQ",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 2 by Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 4 by Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Robert Whittaker by Points",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+950"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 4 by KO/TKO or DQ",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 1 by Submission",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 3 by Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 5 by Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 2 by KO/TKO or DQ",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 4 by KO/TKO or DQ",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 1 by Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 3 by Submission",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Robert Whittaker in Round 5 by Submission",
+            "oddsValue": "+6000"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 1 by KO/TKO or DQ",
+            "oddsValue": "+725"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 3 by KO/TKO or DQ",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 5 by KO/TKO or DQ",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 2 by Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Ikram Aliskerov in Round 4 by Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Ikram Aliskerov by Points",
+            "oddsValue": "+650"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Robert Whittaker",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Ikram Aliskerov",
+            "oddsValue": "-130"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Robert Whittaker",
+            "oddsValue": "+175"
+          },
+          {
+            "participantName": "Goes to Decision",
+            "oddsValue": "+180"
+          },
+          {
+            "participantName": "Ikram Aliskerov",
+            "oddsValue": "+150"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+425"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-650"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Robert Whittaker Wins by Unanimous Decision",
+            "oddsValue": "+295"
+          },
+          {
+            "participantName": "Ikram Aliskerov Wins by Unanimous Decision",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Robert Whittaker Wins by Split or Majority Decision",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Ikram Aliskerov Wins by Split or Majority Decision",
+            "oddsValue": "+1100"
+          }
+        ]
+      }
+    ]
+  }
+]
+>>>>>>> b9c7a99 (Update fight data JSON)
