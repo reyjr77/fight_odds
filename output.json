@@ -24,7 +24,254 @@
         "oddsValue": "-110"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+105"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-135"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Cody Durden By Points",
+            "oddsValue": "+255"
+          },
+          {
+            "participantName": "Cody Durden By Submission",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Joshua Van By Ko/tko Or Dq",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Cody Durden By Ko/tko Or Dq",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Joshua Van By Points",
+            "oddsValue": "+255"
+          },
+          {
+            "participantName": "Joshua Van By Submission",
+            "oddsValue": "+800"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Cody Durden In Round 1",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Cody Durden In Round 3",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Joshua Van In Round 1",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Joshua Van In Round 3",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Cody Durden In Round 2",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Cody Durden By Points",
+            "oddsValue": "+255"
+          },
+          {
+            "participantName": "Joshua Van In Round 2",
+            "oddsValue": "+525"
+          },
+          {
+            "participantName": "Joshua Van By Points",
+            "oddsValue": "+255"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Cody Durden In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Cody Durden In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Cody Durden In Round 2 By Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Cody Durden By Points",
+            "oddsValue": "+255"
+          },
+          {
+            "participantName": "Joshua Van In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Joshua Van In Round 1 By Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Joshua Van In Round 3 By Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Cody Durden In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Cody Durden In Round 1 By Submission",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Cody Durden In Round 3 By Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Joshua Van In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+575"
+          },
+          {
+            "participantName": "Joshua Van In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Joshua Van In Round 2 By Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Joshua Van By Points",
+            "oddsValue": "+255"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Cody Durden",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "Joshua Van",
+            "oddsValue": "-200"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Cody Durden 3.5 Pts",
+            "oddsValue": "-145"
+          },
+          {
+            "participantName": "Joshua Van -3.5 Pts",
+            "oddsValue": "+115"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Cody Durden",
+            "oddsValue": "+375"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "+105"
+          },
+          {
+            "participantName": "Joshua Van",
+            "oddsValue": "+135"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+135"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "+105"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+375"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-600"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Cody Durden Wins By Unanimous Decision",
+            "oddsValue": "+280"
+          },
+          {
+            "participantName": "Joshua Van Wins By Unanimous Decision",
+            "oddsValue": "+280"
+          },
+          {
+            "participantName": "Cody Durden Wins By Split Or Majority Decision",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Joshua Van Wins By Split Or Majority Decision",
+            "oddsValue": "+850"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 03:00 PM",
@@ -51,7 +298,237 @@
         "oddsValue": "+115"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-200"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Clay Guida By Points",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Clay Guida By Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Chase Hooper By Ko/tko Or Dq",
+            "oddsValue": "+525"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Clay Guida By Ko/tko Or Dq",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Chase Hooper By Points",
+            "oddsValue": "+275"
+          },
+          {
+            "participantName": "Chase Hooper By Submission",
+            "oddsValue": "-160"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Clay Guida In Round 1",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Clay Guida In Round 3",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Chase Hooper In Round 1",
+            "oddsValue": "+180"
+          },
+          {
+            "participantName": "Chase Hooper In Round 3",
+            "oddsValue": "+425"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Clay Guida In Round 2",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Clay Guida By Points",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Chase Hooper In Round 2",
+            "oddsValue": "+280"
+          },
+          {
+            "participantName": "Chase Hooper By Points",
+            "oddsValue": "+275"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Clay Guida In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Clay Guida In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Clay Guida In Round 2 By Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Clay Guida By Points",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Chase Hooper In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Chase Hooper In Round 1 By Submission",
+            "oddsValue": "+225"
+          },
+          {
+            "participantName": "Chase Hooper In Round 3 By Submission",
+            "oddsValue": "+625"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Clay Guida In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Clay Guida In Round 1 By Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Clay Guida In Round 3 By Submission",
+            "oddsValue": "+6000"
+          },
+          {
+            "participantName": "Chase Hooper In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Chase Hooper In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Chase Hooper In Round 2 By Submission",
+            "oddsValue": "+375"
+          },
+          {
+            "participantName": "Chase Hooper By Points",
+            "oddsValue": "+275"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Clay Guida",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Chase Hooper",
+            "oddsValue": "-1000"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Clay Guida 3.5 Pts",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Chase Hooper -3.5 Pts",
+            "oddsValue": "-500"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Clay Guida",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "Chase Hooper",
+            "oddsValue": "-215"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-1400"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Clay Guida Wins By Unanimous Decision",
+            "oddsValue": "+925"
+          },
+          {
+            "participantName": "Chase Hooper Wins By Unanimous Decision",
+            "oddsValue": "+315"
+          },
+          {
+            "participantName": "Clay Guida Wins By Split Or Majority Decision",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Chase Hooper Wins By Split Or Majority Decision",
+            "oddsValue": "+1400"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 03:00 PM",
@@ -78,7 +555,241 @@
         "oddsValue": "+160"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-160"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+130"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Michael Chiesa By Points",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Michael Chiesa By Submission",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Max Griffin By Ko/tko Or Dq",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Michael Chiesa By Ko/tko Or Dq",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Max Griffin By Points",
+            "oddsValue": "+175"
+          },
+          {
+            "participantName": "Max Griffin By Submission",
+            "oddsValue": "+1800"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Michael Chiesa",
+            "oddsValue": "-110"
+          },
+          {
+            "participantName": "Max Griffin",
+            "oddsValue": "-120"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Michael Chiesa In Round 1",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Michael Chiesa In Round 3",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Max Griffin In Round 1",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Max Griffin In Round 3",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Michael Chiesa In Round 2",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Michael Chiesa By Points",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Max Griffin In Round 2",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Max Griffin By Points",
+            "oddsValue": "+175"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Michael Chiesa In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Michael Chiesa In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Michael Chiesa In Round 2 By Submission",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Michael Chiesa By Points",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Max Griffin In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Max Griffin In Round 1 By Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Max Griffin In Round 3 By Submission",
+            "oddsValue": "+5500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Michael Chiesa In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Michael Chiesa In Round 1 By Submission",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Michael Chiesa In Round 3 By Submission",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Max Griffin In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Max Griffin In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Max Griffin In Round 2 By Submission",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Max Griffin By Points",
+            "oddsValue": "+175"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Michael Chiesa",
+            "oddsValue": "+295"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "-160"
+          },
+          {
+            "participantName": "Max Griffin",
+            "oddsValue": "+285"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+265"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "-160"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+325"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-600"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Michael Chiesa Wins By Unanimous Decision",
+            "oddsValue": "+230"
+          },
+          {
+            "participantName": "Max Griffin Wins By Unanimous Decision",
+            "oddsValue": "+215"
+          },
+          {
+            "participantName": "Michael Chiesa Wins By Split Or Majority Decision",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Max Griffin Wins By Split Or Majority Decision",
+            "oddsValue": "+800"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 03:00 PM",
@@ -105,7 +816,254 @@
         "oddsValue": "+115"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-260"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Kennedy Nzechukwu By Points",
+            "oddsValue": "+325"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu By Submission",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Lukasz Brzeski By Ko/tko Or Dq",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu By Ko/tko Or Dq",
+            "oddsValue": "-155"
+          },
+          {
+            "participantName": "Lukasz Brzeski By Points",
+            "oddsValue": "+575"
+          },
+          {
+            "participantName": "Lukasz Brzeski By Submission",
+            "oddsValue": "+2000"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Kennedy Nzechukwu In Round 1",
+            "oddsValue": "+165"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu In Round 3",
+            "oddsValue": "+525"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 1",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 3",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu In Round 2",
+            "oddsValue": "+285"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu By Points",
+            "oddsValue": "+325"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 2",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Lukasz Brzeski By Points",
+            "oddsValue": "+575"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Kennedy Nzechukwu In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+215"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+625"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu In Round 2 By Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu By Points",
+            "oddsValue": "+325"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 1 By Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 3 By Submission",
+            "oddsValue": "+6000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu In Round 1 By Submission",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu In Round 3 By Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Lukasz Brzeski In Round 2 By Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Lukasz Brzeski By Points",
+            "oddsValue": "+575"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Kennedy Nzechukwu",
+            "oddsValue": "-800"
+          },
+          {
+            "participantName": "Lukasz Brzeski",
+            "oddsValue": "+500"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Kennedy Nzechukwu -3.5 Pts",
+            "oddsValue": "-500"
+          },
+          {
+            "participantName": "Lukasz Brzeski 3.5 Pts",
+            "oddsValue": "+350"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Kennedy Nzechukwu",
+            "oddsValue": "-215"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "Lukasz Brzeski",
+            "oddsValue": "+800"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "-200"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+700"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-1400"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Kennedy Nzechukwu Wins By Unanimous Decision",
+            "oddsValue": "+375"
+          },
+          {
+            "participantName": "Lukasz Brzeski Wins By Unanimous Decision",
+            "oddsValue": "+640"
+          },
+          {
+            "participantName": "Kennedy Nzechukwu Wins By Split Or Majority Decision",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Lukasz Brzeski Wins By Split Or Majority Decision",
+            "oddsValue": "+1600"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 03:00 PM",
@@ -132,7 +1090,241 @@
         "oddsValue": "+190"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-220"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+180"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Chris Weidman By Points",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "Chris Weidman By Submission",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Eryk Anders By Ko/tko Or Dq",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Chris Weidman By Ko/tko Or Dq",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Eryk Anders By Points",
+            "oddsValue": "+175"
+          },
+          {
+            "participantName": "Eryk Anders By Submission",
+            "oddsValue": "+1800"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Chris Weidman In Round 1",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Chris Weidman In Round 3",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Eryk Anders In Round 1",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Eryk Anders In Round 3",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Chris Weidman In Round 2",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Chris Weidman By Points",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "Eryk Anders In Round 2",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Eryk Anders By Points",
+            "oddsValue": "+175"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Chris Weidman In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Chris Weidman In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Chris Weidman In Round 2 By Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Chris Weidman By Points",
+            "oddsValue": "+160"
+          },
+          {
+            "participantName": "Eryk Anders In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Eryk Anders In Round 1 By Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Eryk Anders In Round 3 By Submission",
+            "oddsValue": "+5500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Chris Weidman In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Chris Weidman In Round 1 By Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Chris Weidman In Round 3 By Submission",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Eryk Anders In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Eryk Anders In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Eryk Anders In Round 2 By Submission",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Eryk Anders By Points",
+            "oddsValue": "+175"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Chris Weidman",
+            "oddsValue": "+105"
+          },
+          {
+            "participantName": "Eryk Anders",
+            "oddsValue": "-135"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Chris Weidman",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "-220"
+          },
+          {
+            "participantName": "Eryk Anders",
+            "oddsValue": "+315"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+230"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "-220"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+650"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+275"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-350"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Chris Weidman Wins By Unanimous Decision",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Eryk Anders Wins By Unanimous Decision",
+            "oddsValue": "+210"
+          },
+          {
+            "participantName": "Chris Weidman Wins By Split Or Majority Decision",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Eryk Anders Wins By Split Or Majority Decision",
+            "oddsValue": "+625"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 05:00 PM",
@@ -159,7 +1351,254 @@
         "oddsValue": "+135"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-150"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+120"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Vicente Luque By Points",
+            "oddsValue": "+375"
+          },
+          {
+            "participantName": "Vicente Luque By Submission",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Themba Gorimbo By Ko/tko Or Dq",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Vicente Luque By Ko/tko Or Dq",
+            "oddsValue": "+625"
+          },
+          {
+            "participantName": "Themba Gorimbo By Points",
+            "oddsValue": "+130"
+          },
+          {
+            "participantName": "Themba Gorimbo By Submission",
+            "oddsValue": "+1200"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Vicente Luque In Round 1",
+            "oddsValue": "+575"
+          },
+          {
+            "participantName": "Vicente Luque In Round 3",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 1",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 3",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Vicente Luque In Round 2",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Vicente Luque By Points",
+            "oddsValue": "+375"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 2",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Themba Gorimbo By Points",
+            "oddsValue": "+130"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Vicente Luque In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Vicente Luque In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Vicente Luque In Round 2 By Submission",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Vicente Luque By Points",
+            "oddsValue": "+375"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1700"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 1 By Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 3 By Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Vicente Luque In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Vicente Luque In Round 1 By Submission",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Vicente Luque In Round 3 By Submission",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Themba Gorimbo In Round 2 By Submission",
+            "oddsValue": "+3000"
+          },
+          {
+            "participantName": "Themba Gorimbo By Points",
+            "oddsValue": "+130"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Vicente Luque",
+            "oddsValue": "-150"
+          },
+          {
+            "participantName": "Themba Gorimbo",
+            "oddsValue": "+120"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Vicente Luque 3.5 Pts",
+            "oddsValue": "-210"
+          },
+          {
+            "participantName": "Themba Gorimbo -3.5 Pts",
+            "oddsValue": "+170"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Vicente Luque",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "-150"
+          },
+          {
+            "participantName": "Themba Gorimbo",
+            "oddsValue": "+415"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+215"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "-150"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+375"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-500"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Vicente Luque Wins By Unanimous Decision",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Themba Gorimbo Wins By Unanimous Decision",
+            "oddsValue": "+135"
+          },
+          {
+            "participantName": "Vicente Luque Wins By Split Or Majority Decision",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Themba Gorimbo Wins By Split Or Majority Decision",
+            "oddsValue": "+700"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 05:00 PM",
@@ -186,7 +1625,254 @@
         "oddsValue": "+290"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-325"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+250"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Movsar Evloev By Points",
+            "oddsValue": "-145"
+          },
+          {
+            "participantName": "Movsar Evloev By Submission",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Aljamain Sterling By Ko/tko Or Dq",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Movsar Evloev By Ko/tko Or Dq",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Aljamain Sterling By Points",
+            "oddsValue": "+300"
+          },
+          {
+            "participantName": "Aljamain Sterling By Submission",
+            "oddsValue": "+700"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Movsar Evloev In Round 1",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Movsar Evloev In Round 3",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 1",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 3",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Movsar Evloev In Round 2",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Movsar Evloev By Points",
+            "oddsValue": "-145"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 2",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Aljamain Sterling By Points",
+            "oddsValue": "+300"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Movsar Evloev In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Movsar Evloev In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Movsar Evloev In Round 2 By Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Movsar Evloev By Points",
+            "oddsValue": "-145"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 1 By Submission",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 3 By Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Movsar Evloev In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Movsar Evloev In Round 1 By Submission",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Movsar Evloev In Round 3 By Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Aljamain Sterling In Round 2 By Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Aljamain Sterling By Points",
+            "oddsValue": "+300"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Movsar Evloev",
+            "oddsValue": "-180"
+          },
+          {
+            "participantName": "Aljamain Sterling",
+            "oddsValue": "+150"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Movsar Evloev -3.5 Pts",
+            "oddsValue": "+140"
+          },
+          {
+            "participantName": "Aljamain Sterling 3.5 Pts",
+            "oddsValue": "-170"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Movsar Evloev",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "-325"
+          },
+          {
+            "participantName": "Aljamain Sterling",
+            "oddsValue": "+625"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "-325"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+625"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-500"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Movsar Evloev Wins By Unanimous Decision",
+            "oddsValue": "-120"
+          },
+          {
+            "participantName": "Aljamain Sterling Wins By Unanimous Decision",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Movsar Evloev Wins By Split Or Majority Decision",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Aljamain Sterling Wins By Split Or Majority Decision",
+            "oddsValue": "+850"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 05:00 PM",
@@ -213,7 +1899,254 @@
         "oddsValue": "+160"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+130"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-160"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Randy Brown By Points",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Randy Brown By Submission",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Bryan Battle By Ko/tko Or Dq",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Randy Brown By Ko/tko Or Dq",
+            "oddsValue": "+525"
+          },
+          {
+            "participantName": "Bryan Battle By Points",
+            "oddsValue": "+185"
+          },
+          {
+            "participantName": "Bryan Battle By Submission",
+            "oddsValue": "+500"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Randy Brown In Round 1",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Randy Brown In Round 3",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Bryan Battle In Round 1",
+            "oddsValue": "+375"
+          },
+          {
+            "participantName": "Bryan Battle In Round 3",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Randy Brown In Round 2",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Randy Brown By Points",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Bryan Battle In Round 2",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Bryan Battle By Points",
+            "oddsValue": "+185"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Randy Brown In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Randy Brown In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Randy Brown In Round 2 By Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Randy Brown By Points",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Bryan Battle In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Bryan Battle In Round 1 By Submission",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Bryan Battle In Round 3 By Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Randy Brown In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Randy Brown In Round 1 By Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Randy Brown In Round 3 By Submission",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Bryan Battle In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Bryan Battle In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Bryan Battle In Round 2 By Submission",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Bryan Battle By Points",
+            "oddsValue": "+185"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Randy Brown",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "Bryan Battle",
+            "oddsValue": "-260"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Randy Brown 3.5 Pts",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Bryan Battle -3.5 Pts",
+            "oddsValue": "-130"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Randy Brown",
+            "oddsValue": "+375"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "+130"
+          },
+          {
+            "participantName": "Bryan Battle",
+            "oddsValue": "+110"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+125"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "+130"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+315"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-600"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Randy Brown Wins By Unanimous Decision",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Bryan Battle Wins By Unanimous Decision",
+            "oddsValue": "+215"
+          },
+          {
+            "participantName": "Randy Brown Wins By Split Or Majority Decision",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Bryan Battle Wins By Split Or Majority Decision",
+            "oddsValue": "+900"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 05:00 PM",
@@ -240,7 +2173,254 @@
         "oddsValue": "+135"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+240"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-300"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Anthony Smith By Points",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Anthony Smith By Submission",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Dominick Reyes By Ko/tko Or Dq",
+            "oddsValue": "-150"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Anthony Smith By Ko/tko Or Dq",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Dominick Reyes By Points",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Dominick Reyes By Submission",
+            "oddsValue": "+1800"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Anthony Smith",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Dominick Reyes",
+            "oddsValue": "-325"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Anthony Smith 3.5 Pts",
+            "oddsValue": "+170"
+          },
+          {
+            "participantName": "Dominick Reyes -3.5 Pts",
+            "oddsValue": "-210"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Anthony Smith In Round 1",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Anthony Smith In Round 3",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 1",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 3",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Anthony Smith In Round 2",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Anthony Smith By Points",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 2",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Dominick Reyes By Points",
+            "oddsValue": "+400"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Anthony Smith In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Anthony Smith In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Anthony Smith In Round 2 By Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Anthony Smith By Points",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 1 By Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 3 By Submission",
+            "oddsValue": "+5500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Anthony Smith In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Anthony Smith In Round 1 By Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Anthony Smith In Round 3 By Submission",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+235"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Dominick Reyes In Round 2 By Submission",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Dominick Reyes By Points",
+            "oddsValue": "+400"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Anthony Smith",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "+240"
+          },
+          {
+            "participantName": "Dominick Reyes",
+            "oddsValue": "-170"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "-250"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "+240"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+725"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-1400"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Anthony Smith Wins By Unanimous Decision",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Dominick Reyes Wins By Unanimous Decision",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Anthony Smith Wins By Split Or Majority Decision",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Dominick Reyes Wins By Split Or Majority Decision",
+            "oddsValue": "+1400"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
@@ -267,7 +2447,302 @@
         "oddsValue": "+105"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-230"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Alexandre Pantoja By Points",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Alexandre Pantoja By Submission",
+            "oddsValue": "+165"
+          },
+          {
+            "participantName": "Kai Asakura By Ko/tko Or Dq",
+            "oddsValue": "+275"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Alexandre Pantoja By Ko/tko Or Dq",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Kai Asakura By Points",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Kai Asakura By Submission",
+            "oddsValue": "+2500"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Alexandre Pantoja In Round 1",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 3",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 5",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Kai Asakura In Round 1",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Kai Asakura In Round 3",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Kai Asakura In Round 5",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 2",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 4",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Alexandre Pantoja By Points",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Kai Asakura In Round 2",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Kai Asakura In Round 4",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Kai Asakura By Points",
+            "oddsValue": "+650"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Alexandre Pantoja In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 5 By Ko/tko Or Dq",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 2 By Submission",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 4 By Submission",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Alexandre Pantoja By Points",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Kai Asakura In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Kai Asakura In Round 4 By Ko/tko Or Dq",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Kai Asakura In Round 1 By Submission",
+            "oddsValue": "+5000"
+          },
+          {
+            "participantName": "Kai Asakura In Round 3 By Submission",
+            "oddsValue": "+6000"
+          },
+          {
+            "participantName": "Kai Asakura In Round 5 By Submission",
+            "oddsValue": "+7000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 4 By Ko/tko Or Dq",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 1 By Submission",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 3 By Submission",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Alexandre Pantoja In Round 5 By Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Kai Asakura In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Kai Asakura In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Kai Asakura In Round 5 By Ko/tko Or Dq",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Kai Asakura In Round 2 By Submission",
+            "oddsValue": "+5500"
+          },
+          {
+            "participantName": "Kai Asakura In Round 4 By Submission",
+            "oddsValue": "+6500"
+          },
+          {
+            "participantName": "Kai Asakura By Points",
+            "oddsValue": "+650"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Alexandre Pantoja",
+            "oddsValue": "-260"
+          },
+          {
+            "participantName": "Kai Asakura",
+            "oddsValue": "+200"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Alexandre Pantoja -5.5 Pts",
+            "oddsValue": "-190"
+          },
+          {
+            "participantName": "Kai Asakura 5.5 Pts",
+            "oddsValue": "+155"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Alexandre Pantoja",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Kai Asakura",
+            "oddsValue": "+255"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+155"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+160"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-1000"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Alexandre Pantoja Wins By Unanimous Decision",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Kai Asakura Wins By Unanimous Decision",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Alexandre Pantoja Wins By Split Or Majority Decision",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Kai Asakura Wins By Split Or Majority Decision",
+            "oddsValue": "+1500"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
@@ -294,7 +2769,302 @@
         "oddsValue": "+135"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-230"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Shavkat Rakhmonov By Points",
+            "oddsValue": "+275"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov By Submission",
+            "oddsValue": "+195"
+          },
+          {
+            "participantName": "Ian Machado Garry By Ko/tko Or Dq",
+            "oddsValue": "+475"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov By Ko/tko Or Dq",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Ian Machado Garry By Points",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Ian Machado Garry By Submission",
+            "oddsValue": "+3000"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Shavkat Rakhmonov In Round 1",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 3",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 5",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 1",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 3",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 5",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 2",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 4",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov By Points",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 2",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 4",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Ian Machado Garry By Points",
+            "oddsValue": "+600"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Shavkat Rakhmonov In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 5 By Ko/tko Or Dq",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 2 By Submission",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 4 By Submission",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov By Points",
+            "oddsValue": "+200"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 4 By Ko/tko Or Dq",
+            "oddsValue": "+2900"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 1 By Submission",
+            "oddsValue": "+6000"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 3 By Submission",
+            "oddsValue": "+7000"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 5 By Submission",
+            "oddsValue": "+8000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 4 By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 1 By Submission",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 3 By Submission",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov In Round 5 By Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2300"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 5 By Ko/tko Or Dq",
+            "oddsValue": "+3600"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 2 By Submission",
+            "oddsValue": "+6500"
+          },
+          {
+            "participantName": "Ian Machado Garry In Round 4 By Submission",
+            "oddsValue": "+7500"
+          },
+          {
+            "participantName": "Ian Machado Garry By Points",
+            "oddsValue": "+600"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Shavkat Rakhmonov",
+            "oddsValue": "-400"
+          },
+          {
+            "participantName": "Ian Machado Garry",
+            "oddsValue": "+300"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Shavkat Rakhmonov -5.5 Pts",
+            "oddsValue": "-200"
+          },
+          {
+            "participantName": "Ian Machado Garry 5.5 Pts",
+            "oddsValue": "+160"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Shavkat Rakhmonov",
+            "oddsValue": "-155"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Ian Machado Garry",
+            "oddsValue": "+475"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+130"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "+190"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+190"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-1000"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Shavkat Rakhmonov Wins By Unanimous Decision",
+            "oddsValue": "+240"
+          },
+          {
+            "participantName": "Ian Machado Garry Wins By Unanimous Decision",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Shavkat Rakhmonov Wins By Split Or Majority Decision",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Ian Machado Garry Wins By Split Or Majority Decision",
+            "oddsValue": "+1500"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
@@ -321,7 +3091,254 @@
         "oddsValue": "+250"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-275"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+215"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Ciryl Gane By Points",
+            "oddsValue": "-155"
+          },
+          {
+            "participantName": "Ciryl Gane By Submission",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Alexander Volkov By Ko/tko Or Dq",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Ciryl Gane By Ko/tko Or Dq",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Alexander Volkov By Points",
+            "oddsValue": "+400"
+          },
+          {
+            "participantName": "Alexander Volkov By Submission",
+            "oddsValue": "+1200"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Ciryl Gane In Round 1",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Ciryl Gane In Round 3",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 1",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 3",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Ciryl Gane In Round 2",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Ciryl Gane By Points",
+            "oddsValue": "-155"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 2",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Alexander Volkov By Points",
+            "oddsValue": "+400"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Ciryl Gane",
+            "oddsValue": "-210"
+          },
+          {
+            "participantName": "Alexander Volkov",
+            "oddsValue": "+170"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Ciryl Gane -3.5 Pts",
+            "oddsValue": "-145"
+          },
+          {
+            "participantName": "Alexander Volkov 3.5 Pts",
+            "oddsValue": "+115"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Ciryl Gane",
+            "oddsValue": "+300"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "-275"
+          },
+          {
+            "participantName": "Alexander Volkov",
+            "oddsValue": "+600"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+300"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "-275"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+600"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Ciryl Gane In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Ciryl Gane In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Ciryl Gane In Round 2 By Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Ciryl Gane By Points",
+            "oddsValue": "-155"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 1 By Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 3 By Submission",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Ciryl Gane In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Ciryl Gane In Round 1 By Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Ciryl Gane In Round 3 By Submission",
+            "oddsValue": "+3500"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Alexander Volkov In Round 2 By Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Alexander Volkov By Points",
+            "oddsValue": "+400"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-1000"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Ciryl Gane Wins By Unanimous Decision",
+            "oddsValue": "-140"
+          },
+          {
+            "participantName": "Alexander Volkov Wins By Unanimous Decision",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Ciryl Gane Wins By Split Or Majority Decision",
+            "oddsValue": "+1200"
+          },
+          {
+            "participantName": "Alexander Volkov Wins By Split Or Majority Decision",
+            "oddsValue": "+1600"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
@@ -348,7 +3365,254 @@
         "oddsValue": "+195"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "-220"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "+180"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Bryce Mitchell By Points",
+            "oddsValue": "-200"
+          },
+          {
+            "participantName": "Bryce Mitchell By Submission",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Kron Gracie By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Bryce Mitchell By Ko/tko Or Dq",
+            "oddsValue": "+650"
+          },
+          {
+            "participantName": "Kron Gracie By Points",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Kron Gracie By Submission",
+            "oddsValue": "+625"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Bryce Mitchell In Round 1",
+            "oddsValue": "+550"
+          },
+          {
+            "participantName": "Bryce Mitchell In Round 3",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Kron Gracie In Round 1",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Kron Gracie In Round 3",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Bryce Mitchell In Round 2",
+            "oddsValue": "+750"
+          },
+          {
+            "participantName": "Bryce Mitchell By Points",
+            "oddsValue": "-200"
+          },
+          {
+            "participantName": "Kron Gracie In Round 2",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Kron Gracie By Points",
+            "oddsValue": "+900"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Bryce Mitchell",
+            "oddsValue": "-220"
+          },
+          {
+            "participantName": "Kron Gracie",
+            "oddsValue": "+180"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Bryce Mitchell -3.5 Pts",
+            "oddsValue": "-325"
+          },
+          {
+            "participantName": "Kron Gracie 3.5 Pts",
+            "oddsValue": "+250"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Bryce Mitchell In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Bryce Mitchell In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Bryce Mitchell In Round 2 By Submission",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Bryce Mitchell By Points",
+            "oddsValue": "-200"
+          },
+          {
+            "participantName": "Kron Gracie In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+4500"
+          },
+          {
+            "participantName": "Kron Gracie In Round 1 By Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Kron Gracie In Round 3 By Submission",
+            "oddsValue": "+2800"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Bryce Mitchell In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Bryce Mitchell In Round 1 By Submission",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Bryce Mitchell In Round 3 By Submission",
+            "oddsValue": "+1800"
+          },
+          {
+            "participantName": "Kron Gracie In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+4000"
+          },
+          {
+            "participantName": "Kron Gracie In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+5500"
+          },
+          {
+            "participantName": "Kron Gracie In Round 2 By Submission",
+            "oddsValue": "+2200"
+          },
+          {
+            "participantName": "Kron Gracie By Points",
+            "oddsValue": "+900"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Bryce Mitchell",
+            "oddsValue": "+250"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "-220"
+          },
+          {
+            "participantName": "Kron Gracie",
+            "oddsValue": "+550"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "-220"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+300"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-1600"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Bryce Mitchell Wins By Unanimous Decision",
+            "oddsValue": "-190"
+          },
+          {
+            "participantName": "Kron Gracie Wins By Unanimous Decision",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Bryce Mitchell Wins By Split Or Majority Decision",
+            "oddsValue": "+1600"
+          },
+          {
+            "participantName": "Kron Gracie Wins By Split Or Majority Decision",
+            "oddsValue": "+2000"
+          }
+        ]
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
@@ -375,6 +3639,253 @@
         "oddsValue": "+140"
       }
     ],
-    "additionalMarkets": []
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+170"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-210"
+          }
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Dooho Choi By Points",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Dooho Choi By Submission",
+            "oddsValue": "+750"
+          },
+          {
+            "participantName": "Nate Landwehr By Ko/tko Or Dq",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Dooho Choi By Ko/tko Or Dq",
+            "oddsValue": "+315"
+          },
+          {
+            "participantName": "Nate Landwehr By Points",
+            "oddsValue": "+195"
+          },
+          {
+            "participantName": "Nate Landwehr By Submission",
+            "oddsValue": "+550"
+          }
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          {
+            "participantName": "Dooho Choi In Round 1",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Dooho Choi In Round 3",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 1",
+            "oddsValue": "+475"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 3",
+            "oddsValue": "+900"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Dooho Choi In Round 2",
+            "oddsValue": "+800"
+          },
+          {
+            "participantName": "Dooho Choi By Points",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 2",
+            "oddsValue": "+700"
+          },
+          {
+            "participantName": "Nate Landwehr By Points",
+            "oddsValue": "+195"
+          }
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          {
+            "participantName": "Dooho Choi In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+600"
+          },
+          {
+            "participantName": "Dooho Choi In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1300"
+          },
+          {
+            "participantName": "Dooho Choi In Round 2 By Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Dooho Choi By Points",
+            "oddsValue": "+500"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1100"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 1 By Submission",
+            "oddsValue": "+1500"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 3 By Submission",
+            "oddsValue": "+2500"
+          },
+          {
+            "participantName": "Draw",
+            "oddsValue": "+6600"
+          },
+          {
+            "participantName": "Dooho Choi In Round 2 By Ko/tko Or Dq",
+            "oddsValue": "+1000"
+          },
+          {
+            "participantName": "Dooho Choi In Round 1 By Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Dooho Choi In Round 3 By Submission",
+            "oddsValue": "+3300"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 1 By Ko/tko Or Dq",
+            "oddsValue": "+750"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 3 By Ko/tko Or Dq",
+            "oddsValue": "+1400"
+          },
+          {
+            "participantName": "Nate Landwehr In Round 2 By Submission",
+            "oddsValue": "+2000"
+          },
+          {
+            "participantName": "Nate Landwehr By Points",
+            "oddsValue": "+195"
+          }
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          {
+            "participantName": "Dooho Choi",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Nate Landwehr",
+            "oddsValue": "-130"
+          }
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          {
+            "participantName": "Dooho Choi 3.5 Pts",
+            "oddsValue": "-135"
+          },
+          {
+            "participantName": "Nate Landwehr -3.5 Pts",
+            "oddsValue": "+105"
+          }
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          {
+            "participantName": "Dooho Choi",
+            "oddsValue": "+185"
+          },
+          {
+            "participantName": "Goes To Decision",
+            "oddsValue": "+170"
+          },
+          {
+            "participantName": "Nate Landwehr",
+            "oddsValue": "+145"
+          }
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          {
+            "participantName": "Either Fighter By Ko/tko Or Dq",
+            "oddsValue": "+100"
+          },
+          {
+            "participantName": "Goes The Distance",
+            "oddsValue": "+170"
+          },
+          {
+            "participantName": "Either Fighter By Submission",
+            "oddsValue": "+290"
+          }
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          {
+            "participantName": "Yes",
+            "oddsValue": "+350"
+          },
+          {
+            "participantName": "No",
+            "oddsValue": "-500"
+          }
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          {
+            "participantName": "Dooho Choi Wins By Unanimous Decision",
+            "oddsValue": "+450"
+          },
+          {
+            "participantName": "Nate Landwehr Wins By Unanimous Decision",
+            "oddsValue": "+220"
+          },
+          {
+            "participantName": "Dooho Choi Wins By Split Or Majority Decision",
+            "oddsValue": "+850"
+          },
+          {
+            "participantName": "Nate Landwehr Wins By Split Or Majority Decision",
+            "oddsValue": "+700"
+          }
+        ]
+      }
+    ]
   }
 ]
