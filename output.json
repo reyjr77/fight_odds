@@ -3,98 +3,350 @@
     "time": "Dec 7, 03:00 PM",
     "participant1": "Joshua Van",
     "participant2": "Cody Durden",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Joshua Van",
+        "oddsValue": "-150"
+      },
+      {
+        "participantName": "Cody Durden",
+        "oddsValue": "+130"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-120"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "-110"
+      }
+    ]
   },
   {
     "time": "Dec 7, 03:00 PM",
     "participant1": "Chase Hooper",
     "participant2": "Clay Guida",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Chase Hooper",
+        "oddsValue": "-1200"
+      },
+      {
+        "participantName": "Clay Guida",
+        "oddsValue": "+750"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-145"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+115"
+      }
+    ]
   },
   {
     "time": "Dec 7, 03:00 PM",
     "participant1": "Max Griffin",
     "participant2": "Michael Chiesa",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Max Griffin",
+        "oddsValue": "-106"
+      },
+      {
+        "participantName": "Michael Chiesa",
+        "oddsValue": "-114"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-190"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+160"
+      }
+    ]
   },
   {
     "time": "Dec 7, 03:00 PM",
     "participant1": "Lukasz Brzeski",
     "participant2": "Kennedy Nzechukwu",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Lukasz Brzeski",
+        "oddsValue": "+475"
+      },
+      {
+        "participantName": "Kennedy Nzechukwu",
+        "oddsValue": "-650"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-145"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+115"
+      }
+    ]
   },
   {
     "time": "Dec 7, 03:00 PM",
     "participant1": "Eryk Anders",
     "participant2": "Chris Weidman",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Eryk Anders",
+        "oddsValue": "-109"
+      },
+      {
+        "participantName": "Chris Weidman",
+        "oddsValue": "-111"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-240"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+190"
+      }
+    ]
   },
   {
     "time": "Dec 7, 05:00 PM",
     "participant1": "Themba Gorimbo",
     "participant2": "Vicente Luque",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Themba Gorimbo",
+        "oddsValue": "-149"
+      },
+      {
+        "participantName": "Vicente Luque",
+        "oddsValue": "+129"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-165"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+135"
+      }
+    ]
   },
   {
     "time": "Dec 7, 05:00 PM",
     "participant1": "Aljamain Sterling",
     "participant2": "Movsar Evloev",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Aljamain Sterling",
+        "oddsValue": "+213"
+      },
+      {
+        "participantName": "Movsar Evloev",
+        "oddsValue": "-248"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-365"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+290"
+      }
+    ]
   },
   {
     "time": "Dec 7, 05:00 PM",
     "participant1": "Bryan Battle",
     "participant2": "Randy Brown",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Bryan Battle",
+        "oddsValue": "-225"
+      },
+      {
+        "participantName": "Randy Brown",
+        "oddsValue": "+190"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-200"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+160"
+      }
+    ]
   },
   {
     "time": "Dec 7, 05:00 PM",
     "participant1": "Dominick Reyes",
     "participant2": "Anthony Smith",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Dominick Reyes",
+        "oddsValue": "-360"
+      },
+      {
+        "participantName": "Anthony Smith",
+        "oddsValue": "+295"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-165"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+135"
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
     "participant1": "Kai Asakura",
     "participant2": "Alexandre Pantoja",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Kai Asakura",
+        "oddsValue": "+225"
+      },
+      {
+        "participantName": "Alexandre Pantoja",
+        "oddsValue": "-265"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-135"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+105"
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
     "participant1": "Ian Machado Garry",
     "participant2": "Shavkat Rakhmonov",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Ian Machado Garry",
+        "oddsValue": "+291"
+      },
+      {
+        "participantName": "Shavkat Rakhmonov",
+        "oddsValue": "-356"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-165"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+135"
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
     "participant1": "Alexander Volkov",
     "participant2": "Ciryl Gane",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Alexander Volkov",
+        "oddsValue": "+285"
+      },
+      {
+        "participantName": "Ciryl Gane",
+        "oddsValue": "-350"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-325"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+250"
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
     "participant1": "Kron Gracie",
     "participant2": "Bryce Mitchell",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Kron Gracie",
+        "oddsValue": "+650"
+      },
+      {
+        "participantName": "Bryce Mitchell",
+        "oddsValue": "-950"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-245"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+195"
+      }
+    ]
   },
   {
     "time": "Dec 7, 07:00 PM",
     "participant1": "Doo Ho Choi",
     "participant2": "Nate Landwehr",
-    "marketOdds": [],
-    "overUnder": []
+    "marketOdds": [
+      {
+        "participantName": "Doo Ho Choi",
+        "oddsValue": "+117"
+      },
+      {
+        "participantName": "Nate Landwehr",
+        "oddsValue": "-137"
+      }
+    ],
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-170"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+140"
+      }
+    ]
   }
 ]
