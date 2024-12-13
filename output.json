@@ -1,1 +1,3552 @@
-[]
+[
+  {
+    "time": "Dec 14, 04:10 PM",
+    "participant1": "Piera Rodriguez",
+    "participant2": "Josefine Knutsson",
+    "marketOdds": [
+      {
+        "participantName": "Piera Rodriguez",
+        "oddsValue": "+200"
+      },
+      {
+        "participantName": "Josefine Knutsson",
+        "oddsValue": "-235"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534801",
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-500"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+375"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "-400"
+          ],
+          [
+            "No",
+            "+300"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Josefine Knutsson By Points",
+            "-170"
+          ],
+          [
+            "Josefine Knutsson By Submission",
+            "+1800"
+          ],
+          [
+            "Piera Rodriguez By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Josefine Knutsson By Ko/tko Or Dq",
+            "+750"
+          ],
+          [
+            "Piera Rodriguez By Points",
+            "+265"
+          ],
+          [
+            "Piera Rodriguez By Submission",
+            "+1000"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Josefine Knutsson In Round 1",
+            "+1200"
+          ],
+          [
+            "Josefine Knutsson In Round 3",
+            "+1800"
+          ],
+          [
+            "Piera Rodriguez In Round 1",
+            "+1200"
+          ],
+          [
+            "Piera Rodriguez In Round 3",
+            "+1800"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Josefine Knutsson In Round 2",
+            "+1400"
+          ],
+          [
+            "Josefine Knutsson By Points",
+            "-170"
+          ],
+          [
+            "Piera Rodriguez In Round 2",
+            "+1600"
+          ],
+          [
+            "Piera Rodriguez By Points",
+            "+265"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Josefine Knutsson In Round 1 By Ko/tko Or Dq",
+            "+1400"
+          ],
+          [
+            "Josefine Knutsson In Round 3 By Ko/tko Or Dq",
+            "+2200"
+          ],
+          [
+            "Josefine Knutsson In Round 2 By Submission",
+            "+4500"
+          ],
+          [
+            "Josefine Knutsson By Points",
+            "-170"
+          ],
+          [
+            "Piera Rodriguez In Round 2 By Ko/tko Or Dq",
+            "+3000"
+          ],
+          [
+            "Piera Rodriguez In Round 1 By Submission",
+            "+2000"
+          ],
+          [
+            "Piera Rodriguez In Round 3 By Submission",
+            "+3300"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Josefine Knutsson In Round 2 By Ko/tko Or Dq",
+            "+1800"
+          ],
+          [
+            "Josefine Knutsson In Round 1 By Submission",
+            "+4000"
+          ],
+          [
+            "Josefine Knutsson In Round 3 By Submission",
+            "+5500"
+          ],
+          [
+            "Piera Rodriguez In Round 1 By Ko/tko Or Dq",
+            "+2500"
+          ],
+          [
+            "Piera Rodriguez In Round 3 By Ko/tko Or Dq",
+            "+4000"
+          ],
+          [
+            "Piera Rodriguez In Round 2 By Submission",
+            "+2500"
+          ],
+          [
+            "Piera Rodriguez By Points",
+            "+265"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Josefine Knutsson",
+            "-115"
+          ],
+          [
+            "Piera Rodriguez",
+            "-115"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Josefine Knutsson",
+            "+525"
+          ],
+          [
+            "Goes To Decision",
+            "-400"
+          ],
+          [
+            "Piera Rodriguez",
+            "+525"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+475"
+          ],
+          [
+            "Goes The Distance",
+            "-400"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+550"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+300"
+          ],
+          [
+            "No",
+            "-400"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Josefine Knutsson Wins By Unanimous Decision",
+            "-150"
+          ],
+          [
+            "Piera Rodriguez Wins By Unanimous Decision",
+            "+315"
+          ],
+          [
+            "Josefine Knutsson Wins By Split Or Majority Decision",
+            "+500"
+          ],
+          [
+            "Piera Rodriguez Wins By Split Or Majority Decision",
+            "+700"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 04:35 PM",
+    "participant1": "Ramon Taveras",
+    "participant2": "Davey Grant",
+    "marketOdds": [
+      {
+        "participantName": "Ramon Taveras",
+        "oddsValue": "-108"
+      },
+      {
+        "participantName": "Davey Grant",
+        "oddsValue": "-112"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534791",
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-125"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "-105"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "+100"
+          ],
+          [
+            "No",
+            "-130"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Davey Grant By Points",
+            "+235"
+          ],
+          [
+            "Davey Grant By Submission",
+            "+850"
+          ],
+          [
+            "Ramon Taveras By Ko/tko Or Dq",
+            "+300"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Davey Grant By Ko/tko Or Dq",
+            "+375"
+          ],
+          [
+            "Ramon Taveras By Points",
+            "+265"
+          ],
+          [
+            "Ramon Taveras By Submission",
+            "+900"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Davey Grant In Round 1",
+            "+625"
+          ],
+          [
+            "Davey Grant In Round 3",
+            "+1000"
+          ],
+          [
+            "Ramon Taveras In Round 1",
+            "+550"
+          ],
+          [
+            "Ramon Taveras In Round 3",
+            "+900"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Davey Grant In Round 2",
+            "+850"
+          ],
+          [
+            "Davey Grant By Points",
+            "+235"
+          ],
+          [
+            "Ramon Taveras In Round 2",
+            "+675"
+          ],
+          [
+            "Ramon Taveras By Points",
+            "+265"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Davey Grant In Round 1 By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Davey Grant In Round 3 By Ko/tko Or Dq",
+            "+1600"
+          ],
+          [
+            "Davey Grant In Round 2 By Submission",
+            "+2200"
+          ],
+          [
+            "Davey Grant By Points",
+            "+235"
+          ],
+          [
+            "Ramon Taveras In Round 2 By Ko/tko Or Dq",
+            "+950"
+          ],
+          [
+            "Ramon Taveras In Round 1 By Submission",
+            "+2000"
+          ],
+          [
+            "Ramon Taveras In Round 3 By Submission",
+            "+3300"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Davey Grant In Round 2 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Davey Grant In Round 1 By Submission",
+            "+1800"
+          ],
+          [
+            "Davey Grant In Round 3 By Submission",
+            "+2800"
+          ],
+          [
+            "Ramon Taveras In Round 1 By Ko/tko Or Dq",
+            "+800"
+          ],
+          [
+            "Ramon Taveras In Round 3 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Ramon Taveras In Round 2 By Submission",
+            "+2500"
+          ],
+          [
+            "Ramon Taveras By Points",
+            "+265"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Davey Grant",
+            "+110"
+          ],
+          [
+            "Ramon Taveras",
+            "-140"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Davey Grant 3.5 Pts",
+            "-190"
+          ],
+          [
+            "Ramon Taveras -3.5 Pts",
+            "+155"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Davey Grant",
+            "+225"
+          ],
+          [
+            "Goes To Decision",
+            "+100"
+          ],
+          [
+            "Ramon Taveras",
+            "+215"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+110"
+          ],
+          [
+            "Goes The Distance",
+            "+100"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+575"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+400"
+          ],
+          [
+            "No",
+            "-600"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Davey Grant Wins By Unanimous Decision",
+            "+270"
+          ],
+          [
+            "Ramon Taveras Wins By Unanimous Decision",
+            "+300"
+          ],
+          [
+            "Davey Grant Wins By Split Or Majority Decision",
+            "+800"
+          ],
+          [
+            "Ramon Taveras Wins By Split Or Majority Decision",
+            "+900"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 05:00 PM",
+    "participant1": "Jamey-lyn Horth",
+    "participant2": "Miranda Maverick",
+    "marketOdds": [
+      {
+        "participantName": "Jamey-Lyn Horth",
+        "oddsValue": "+425"
+      },
+      {
+        "participantName": "Miranda Maverick",
+        "oddsValue": "-600"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534765",
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-450"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+350"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "-400"
+          ],
+          [
+            "No",
+            "+300"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Miranda Maverick By Points",
+            "-275"
+          ],
+          [
+            "Miranda Maverick By Submission",
+            "+450"
+          ],
+          [
+            "Jamey-lyn Horth By Ko/tko Or Dq",
+            "+2000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Miranda Maverick By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Jamey-lyn Horth By Points",
+            "+550"
+          ],
+          [
+            "Jamey-lyn Horth By Submission",
+            "+2000"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Miranda Maverick In Round 1",
+            "+650"
+          ],
+          [
+            "Miranda Maverick In Round 3",
+            "+1200"
+          ],
+          [
+            "Jamey-lyn Horth In Round 1",
+            "+2500"
+          ],
+          [
+            "Jamey-lyn Horth In Round 3",
+            "+4000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Miranda Maverick In Round 2",
+            "+900"
+          ],
+          [
+            "Miranda Maverick By Points",
+            "-275"
+          ],
+          [
+            "Jamey-lyn Horth In Round 2",
+            "+3300"
+          ],
+          [
+            "Jamey-lyn Horth By Points",
+            "+550"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Miranda Maverick",
+            "-750"
+          ],
+          [
+            "Jamey-lyn Horth",
+            "+475"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Miranda Maverick In Round 1 By Ko/tko Or Dq",
+            "+2500"
+          ],
+          [
+            "Miranda Maverick In Round 3 By Ko/tko Or Dq",
+            "+4000"
+          ],
+          [
+            "Miranda Maverick In Round 2 By Submission",
+            "+1400"
+          ],
+          [
+            "Miranda Maverick By Points",
+            "-275"
+          ],
+          [
+            "Jamey-lyn Horth In Round 2 By Ko/tko Or Dq",
+            "+4000"
+          ],
+          [
+            "Jamey-lyn Horth In Round 1 By Submission",
+            "+3300"
+          ],
+          [
+            "Jamey-lyn Horth In Round 3 By Submission",
+            "+4500"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Miranda Maverick In Round 2 By Ko/tko Or Dq",
+            "+3300"
+          ],
+          [
+            "Miranda Maverick In Round 1 By Submission",
+            "+900"
+          ],
+          [
+            "Miranda Maverick In Round 3 By Submission",
+            "+2000"
+          ],
+          [
+            "Jamey-lyn Horth In Round 1 By Ko/tko Or Dq",
+            "+3300"
+          ],
+          [
+            "Jamey-lyn Horth In Round 3 By Ko/tko Or Dq",
+            "+4500"
+          ],
+          [
+            "Jamey-lyn Horth In Round 2 By Submission",
+            "+4000"
+          ],
+          [
+            "Jamey-lyn Horth By Points",
+            "+550"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Miranda Maverick -3.5 Pts",
+            "-190"
+          ],
+          [
+            "Jamey-lyn Horth 3.5 Pts",
+            "+150"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Miranda Maverick",
+            "+375"
+          ],
+          [
+            "Goes To Decision",
+            "-400"
+          ],
+          [
+            "Jamey-lyn Horth",
+            "+800"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Goes The Distance",
+            "-400"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+350"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+350"
+          ],
+          [
+            "No",
+            "-500"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Miranda Maverick Wins By Unanimous Decision",
+            "-250"
+          ],
+          [
+            "Jamey-lyn Horth Wins By Unanimous Decision",
+            "+625"
+          ],
+          [
+            "Miranda Maverick Wins By Split Or Majority Decision",
+            "+700"
+          ],
+          [
+            "Jamey-lyn Horth Wins By Split Or Majority Decision",
+            "+800"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 05:25 PM",
+    "participant1": "Felipe Lima",
+    "participant2": "Miles Johns",
+    "marketOdds": [
+      {
+        "participantName": "Felipe Lima",
+        "oddsValue": "-235"
+      },
+      {
+        "participantName": "Miles Johns",
+        "oddsValue": "+200"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490562605",
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-265"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+205"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "-200"
+          ],
+          [
+            "No",
+            "+160"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Felipe Lima By Points",
+            "-120"
+          ],
+          [
+            "Felipe Lima By Submission",
+            "+550"
+          ],
+          [
+            "Miles Johns By Ko/tko Or Dq",
+            "+800"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Felipe Lima By Ko/tko Or Dq",
+            "+525"
+          ],
+          [
+            "Miles Johns By Points",
+            "+325"
+          ],
+          [
+            "Miles Johns By Submission",
+            "+2500"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Felipe Lima In Round 1",
+            "+600"
+          ],
+          [
+            "Felipe Lima In Round 3",
+            "+1100"
+          ],
+          [
+            "Miles Johns In Round 1",
+            "+1200"
+          ],
+          [
+            "Miles Johns In Round 3",
+            "+2200"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Felipe Lima In Round 2",
+            "+800"
+          ],
+          [
+            "Felipe Lima By Points",
+            "-120"
+          ],
+          [
+            "Miles Johns In Round 2",
+            "+1800"
+          ],
+          [
+            "Miles Johns By Points",
+            "+325"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Felipe Lima In Round 1 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Felipe Lima In Round 3 By Ko/tko Or Dq",
+            "+1800"
+          ],
+          [
+            "Felipe Lima In Round 2 By Submission",
+            "+1500"
+          ],
+          [
+            "Felipe Lima By Points",
+            "-120"
+          ],
+          [
+            "Miles Johns In Round 2 By Ko/tko Or Dq",
+            "+2500"
+          ],
+          [
+            "Miles Johns In Round 1 By Submission",
+            "+5000"
+          ],
+          [
+            "Miles Johns In Round 3 By Submission",
+            "+6000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Felipe Lima In Round 2 By Ko/tko Or Dq",
+            "+1400"
+          ],
+          [
+            "Felipe Lima In Round 1 By Submission",
+            "+1200"
+          ],
+          [
+            "Felipe Lima In Round 3 By Submission",
+            "+2000"
+          ],
+          [
+            "Miles Johns In Round 1 By Ko/tko Or Dq",
+            "+2000"
+          ],
+          [
+            "Miles Johns In Round 3 By Ko/tko Or Dq",
+            "+3000"
+          ],
+          [
+            "Miles Johns In Round 2 By Submission",
+            "+5500"
+          ],
+          [
+            "Miles Johns By Points",
+            "+325"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Felipe Lima",
+            "-200"
+          ],
+          [
+            "Miles Johns",
+            "+160"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Felipe Lima -3.5 Pts",
+            "-110"
+          ],
+          [
+            "Miles Johns 3.5 Pts",
+            "-120"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Felipe Lima",
+            "+190"
+          ],
+          [
+            "Goes To Decision",
+            "-200"
+          ],
+          [
+            "Miles Johns",
+            "+780"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+285"
+          ],
+          [
+            "Goes The Distance",
+            "-200"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+400"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+400"
+          ],
+          [
+            "No",
+            "-600"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Felipe Lima Wins By Unanimous Decision",
+            "-105"
+          ],
+          [
+            "Miles Johns Wins By Unanimous Decision",
+            "+375"
+          ],
+          [
+            "Felipe Lima Wins By Split Or Majority Decision",
+            "+800"
+          ],
+          [
+            "Miles Johns Wins By Split Or Majority Decision",
+            "+1000"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 05:50 PM",
+    "participant1": "Fernando Padilla",
+    "participant2": "Sean Woodson",
+    "marketOdds": [
+      {
+        "participantName": "Fernando Padilla",
+        "oddsValue": "+135"
+      },
+      {
+        "participantName": "Sean Woodson",
+        "oddsValue": "-155"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534805",
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-230"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+190"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "-210"
+          ],
+          [
+            "No",
+            "+170"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Sean Woodson By Points",
+            "+125"
+          ],
+          [
+            "Sean Woodson By Submission",
+            "+2200"
+          ],
+          [
+            "Fernando Padilla By Ko/tko Or Dq",
+            "+500"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Sean Woodson By Ko/tko Or Dq",
+            "+450"
+          ],
+          [
+            "Fernando Padilla By Points",
+            "+280"
+          ],
+          [
+            "Fernando Padilla By Submission",
+            "+600"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Sean Woodson In Round 1",
+            "+800"
+          ],
+          [
+            "Sean Woodson In Round 3",
+            "+1200"
+          ],
+          [
+            "Fernando Padilla In Round 1",
+            "+700"
+          ],
+          [
+            "Fernando Padilla In Round 3",
+            "+1200"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Sean Woodson In Round 2",
+            "+1000"
+          ],
+          [
+            "Sean Woodson By Points",
+            "+125"
+          ],
+          [
+            "Fernando Padilla In Round 2",
+            "+900"
+          ],
+          [
+            "Fernando Padilla By Points",
+            "+280"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Sean Woodson In Round 1 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Sean Woodson In Round 3 By Ko/tko Or Dq",
+            "+1800"
+          ],
+          [
+            "Sean Woodson In Round 2 By Submission",
+            "+4500"
+          ],
+          [
+            "Sean Woodson By Points",
+            "+125"
+          ],
+          [
+            "Fernando Padilla In Round 2 By Ko/tko Or Dq",
+            "+1400"
+          ],
+          [
+            "Fernando Padilla In Round 1 By Submission",
+            "+1400"
+          ],
+          [
+            "Fernando Padilla In Round 3 By Submission",
+            "+1800"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Sean Woodson In Round 2 By Ko/tko Or Dq",
+            "+1400"
+          ],
+          [
+            "Sean Woodson In Round 1 By Submission",
+            "+4000"
+          ],
+          [
+            "Sean Woodson In Round 3 By Submission",
+            "+5500"
+          ],
+          [
+            "Fernando Padilla In Round 1 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Fernando Padilla In Round 3 By Ko/tko Or Dq",
+            "+1800"
+          ],
+          [
+            "Fernando Padilla In Round 2 By Submission",
+            "+1600"
+          ],
+          [
+            "Fernando Padilla By Points",
+            "+280"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Sean Woodson",
+            "+195"
+          ],
+          [
+            "Fernando Padilla",
+            "-250"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Sean Woodson -3.5 Pts",
+            "+200"
+          ],
+          [
+            "Fernando Padilla 3.5 Pts",
+            "-260"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Sean Woodson",
+            "+440"
+          ],
+          [
+            "Goes To Decision",
+            "-210"
+          ],
+          [
+            "Fernando Padilla",
+            "+275"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+215"
+          ],
+          [
+            "Goes The Distance",
+            "-210"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+650"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+275"
+          ],
+          [
+            "No",
+            "-350"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Sean Woodson Wins By Unanimous Decision",
+            "+150"
+          ],
+          [
+            "Fernando Padilla Wins By Unanimous Decision",
+            "+290"
+          ],
+          [
+            "Sean Woodson Wins By Split Or Majority Decision",
+            "+550"
+          ],
+          [
+            "Fernando Padilla Wins By Split Or Majority Decision",
+            "+650"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 06:15 PM",
+    "participant1": "Drakkar Klose",
+    "participant2": "Joel Alvarez",
+    "marketOdds": [
+      {
+        "participantName": "Drakkar Klose",
+        "oddsValue": "+350"
+      },
+      {
+        "participantName": "Joel Alvarez",
+        "oddsValue": "-450"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534776",
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-145"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+115"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "+160"
+          ],
+          [
+            "No",
+            "-200"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Joel Alvarez By Points",
+            "+240"
+          ],
+          [
+            "Joel Alvarez By Submission",
+            "+160"
+          ],
+          [
+            "Drakkar Klose By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Joel Alvarez By Ko/tko Or Dq",
+            "+275"
+          ],
+          [
+            "Drakkar Klose By Points",
+            "+550"
+          ],
+          [
+            "Drakkar Klose By Submission",
+            "+2500"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Joel Alvarez In Round 1",
+            "+225"
+          ],
+          [
+            "Joel Alvarez In Round 3",
+            "+575"
+          ],
+          [
+            "Drakkar Klose In Round 1",
+            "+1200"
+          ],
+          [
+            "Drakkar Klose In Round 3",
+            "+2200"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Joel Alvarez In Round 2",
+            "+375"
+          ],
+          [
+            "Joel Alvarez By Points",
+            "+240"
+          ],
+          [
+            "Drakkar Klose In Round 2",
+            "+1600"
+          ],
+          [
+            "Drakkar Klose By Points",
+            "+550"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Joel Alvarez In Round 1 By Ko/tko Or Dq",
+            "+650"
+          ],
+          [
+            "Joel Alvarez In Round 3 By Ko/tko Or Dq",
+            "+1500"
+          ],
+          [
+            "Joel Alvarez In Round 2 By Submission",
+            "+675"
+          ],
+          [
+            "Joel Alvarez By Points",
+            "+240"
+          ],
+          [
+            "Drakkar Klose In Round 2 By Ko/tko Or Dq",
+            "+2000"
+          ],
+          [
+            "Drakkar Klose In Round 1 By Submission",
+            "+5000"
+          ],
+          [
+            "Drakkar Klose In Round 3 By Submission",
+            "+6500"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Joel Alvarez In Round 2 By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Joel Alvarez In Round 1 By Submission",
+            "+400"
+          ],
+          [
+            "Joel Alvarez In Round 3 By Submission",
+            "+1200"
+          ],
+          [
+            "Drakkar Klose In Round 1 By Ko/tko Or Dq",
+            "+1600"
+          ],
+          [
+            "Drakkar Klose In Round 3 By Ko/tko Or Dq",
+            "+2800"
+          ],
+          [
+            "Drakkar Klose In Round 2 By Submission",
+            "+5500"
+          ],
+          [
+            "Drakkar Klose By Points",
+            "+550"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Joel Alvarez",
+            "-400"
+          ],
+          [
+            "Drakkar Klose",
+            "+300"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Joel Alvarez -3.5 Pts",
+            "-200"
+          ],
+          [
+            "Drakkar Klose 3.5 Pts",
+            "+160"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Joel Alvarez",
+            "-160"
+          ],
+          [
+            "Goes To Decision",
+            "+160"
+          ],
+          [
+            "Drakkar Klose",
+            "+700"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+155"
+          ],
+          [
+            "Goes The Distance",
+            "+150"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+200"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+600"
+          ],
+          [
+            "No",
+            "-1000"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Joel Alvarez Wins By Unanimous Decision",
+            "+280"
+          ],
+          [
+            "Drakkar Klose Wins By Unanimous Decision",
+            "+625"
+          ],
+          [
+            "Joel Alvarez Wins By Split Or Majority Decision",
+            "+1200"
+          ],
+          [
+            "Drakkar Klose Wins By Split Or Majority Decision",
+            "+1400"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 06:40 PM",
+    "participant1": "Ottman Azaitar",
+    "participant2": "Michael Johnson",
+    "marketOdds": [
+      {
+        "participantName": "Ottman Azaitar",
+        "oddsValue": "+185"
+      },
+      {
+        "participantName": "Michael Johnson",
+        "oddsValue": "-220"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490552197",
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-140"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+110"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "+170"
+          ],
+          [
+            "No",
+            "-210"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Michael Johnson By Points",
+            "+275"
+          ],
+          [
+            "Michael Johnson By Submission",
+            "+1000"
+          ],
+          [
+            "Ottman Azaitar By Ko/tko Or Dq",
+            "+250"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Michael Johnson By Ko/tko Or Dq",
+            "+145"
+          ],
+          [
+            "Ottman Azaitar By Points",
+            "+550"
+          ],
+          [
+            "Ottman Azaitar By Submission",
+            "+2500"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Michael Johnson In Round 1",
+            "+300"
+          ],
+          [
+            "Michael Johnson In Round 3",
+            "+700"
+          ],
+          [
+            "Ottman Azaitar In Round 1",
+            "+600"
+          ],
+          [
+            "Ottman Azaitar In Round 3",
+            "+1200"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Michael Johnson In Round 2",
+            "+500"
+          ],
+          [
+            "Michael Johnson By Points",
+            "+275"
+          ],
+          [
+            "Ottman Azaitar In Round 2",
+            "+800"
+          ],
+          [
+            "Ottman Azaitar By Points",
+            "+550"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Michael Johnson In Round 1 By Ko/tko Or Dq",
+            "+400"
+          ],
+          [
+            "Michael Johnson In Round 3 By Ko/tko Or Dq",
+            "+850"
+          ],
+          [
+            "Michael Johnson In Round 2 By Submission",
+            "+2800"
+          ],
+          [
+            "Michael Johnson By Points",
+            "+275"
+          ],
+          [
+            "Ottman Azaitar In Round 2 By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Ottman Azaitar In Round 1 By Submission",
+            "+5000"
+          ],
+          [
+            "Ottman Azaitar In Round 3 By Submission",
+            "+6500"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Michael Johnson In Round 2 By Ko/tko Or Dq",
+            "+550"
+          ],
+          [
+            "Michael Johnson In Round 1 By Submission",
+            "+2200"
+          ],
+          [
+            "Michael Johnson In Round 3 By Submission",
+            "+3300"
+          ],
+          [
+            "Ottman Azaitar In Round 1 By Ko/tko Or Dq",
+            "+650"
+          ],
+          [
+            "Ottman Azaitar In Round 3 By Ko/tko Or Dq",
+            "+1300"
+          ],
+          [
+            "Ottman Azaitar In Round 2 By Submission",
+            "+5500"
+          ],
+          [
+            "Ottman Azaitar By Points",
+            "+550"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Michael Johnson",
+            "-180"
+          ],
+          [
+            "Ottman Azaitar",
+            "+150"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Michael Johnson -3.5 Pts",
+            "-110"
+          ],
+          [
+            "Ottman Azaitar 3.5 Pts",
+            "-120"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Michael Johnson",
+            "+120"
+          ],
+          [
+            "Goes To Decision",
+            "+170"
+          ],
+          [
+            "Ottman Azaitar",
+            "+235"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+450"
+          ],
+          [
+            "No",
+            "-700"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Michael Johnson Wins By Unanimous Decision",
+            "+315"
+          ],
+          [
+            "Ottman Azaitar Wins By Unanimous Decision",
+            "+625"
+          ],
+          [
+            "Michael Johnson Wins By Split Or Majority Decision",
+            "+900"
+          ],
+          [
+            "Ottman Azaitar Wins By Split Or Majority Decision",
+            "+1100"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 07:10 PM",
+    "participant1": "Tuco Tokkos",
+    "participant2": "Navajo Stirling",
+    "marketOdds": [
+      {
+        "participantName": "Tuco Tokkos",
+        "oddsValue": "+600"
+      },
+      {
+        "participantName": "Navajo Stirling",
+        "oddsValue": "-900"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534804",
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-150"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+120"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "+200"
+          ],
+          [
+            "No",
+            "-260"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Navajo Stirling By Points",
+            "+300"
+          ],
+          [
+            "Navajo Stirling By Submission",
+            "+1800"
+          ],
+          [
+            "Tuco Tokkos By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Navajo Stirling By Ko/tko Or Dq",
+            "-200"
+          ],
+          [
+            "Tuco Tokkos By Points",
+            "+900"
+          ],
+          [
+            "Tuco Tokkos By Submission",
+            "+1400"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Navajo Stirling In Round 1",
+            "+175"
+          ],
+          [
+            "Navajo Stirling In Round 3",
+            "+750"
+          ],
+          [
+            "Tuco Tokkos In Round 1",
+            "+1200"
+          ],
+          [
+            "Tuco Tokkos In Round 3",
+            "+2000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Navajo Stirling In Round 2",
+            "+265"
+          ],
+          [
+            "Navajo Stirling By Points",
+            "+300"
+          ],
+          [
+            "Tuco Tokkos In Round 2",
+            "+1600"
+          ],
+          [
+            "Tuco Tokkos By Points",
+            "+900"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Navajo Stirling In Round 1 By Ko/tko Or Dq",
+            "+190"
+          ],
+          [
+            "Navajo Stirling In Round 3 By Ko/tko Or Dq",
+            "+800"
+          ],
+          [
+            "Navajo Stirling In Round 2 By Submission",
+            "+4500"
+          ],
+          [
+            "Navajo Stirling By Points",
+            "+300"
+          ],
+          [
+            "Tuco Tokkos In Round 2 By Ko/tko Or Dq",
+            "+2200"
+          ],
+          [
+            "Tuco Tokkos In Round 1 By Submission",
+            "+3000"
+          ],
+          [
+            "Tuco Tokkos In Round 3 By Submission",
+            "+4500"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Navajo Stirling In Round 2 By Ko/tko Or Dq",
+            "+285"
+          ],
+          [
+            "Navajo Stirling In Round 1 By Submission",
+            "+4000"
+          ],
+          [
+            "Navajo Stirling In Round 3 By Submission",
+            "+5500"
+          ],
+          [
+            "Tuco Tokkos In Round 1 By Ko/tko Or Dq",
+            "+1800"
+          ],
+          [
+            "Tuco Tokkos In Round 3 By Ko/tko Or Dq",
+            "+2800"
+          ],
+          [
+            "Tuco Tokkos In Round 2 By Submission",
+            "+3500"
+          ],
+          [
+            "Tuco Tokkos By Points",
+            "+900"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Navajo Stirling",
+            "-600"
+          ],
+          [
+            "Tuco Tokkos",
+            "+400"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Navajo Stirling -3.5 Pts",
+            "-325"
+          ],
+          [
+            "Tuco Tokkos 3.5 Pts",
+            "+250"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Navajo Stirling",
+            "-210"
+          ],
+          [
+            "Goes To Decision",
+            "+215"
+          ],
+          [
+            "Tuco Tokkos",
+            "+650"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "-215"
+          ],
+          [
+            "Goes The Distance",
+            "+215"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+700"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+700"
+          ],
+          [
+            "No",
+            "-1400"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Navajo Stirling Wins By Unanimous Decision",
+            "+350"
+          ],
+          [
+            "Tuco Tokkos Wins By Unanimous Decision",
+            "+1050"
+          ],
+          [
+            "Navajo Stirling Wins By Split Or Majority Decision",
+            "+1200"
+          ],
+          [
+            "Tuco Tokkos Wins By Split Or Majority Decision",
+            "+1600"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 07:35 PM",
+    "participant1": "Daniel Marcos",
+    "participant2": "Adrian Yanez",
+    "marketOdds": [
+      {
+        "participantName": "Daniel Marcos",
+        "oddsValue": "-225"
+      },
+      {
+        "participantName": "Adrian Yanez",
+        "oddsValue": "+190"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534787",
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-140"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+110"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "-110"
+          ],
+          [
+            "No",
+            "-120"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Adrian Yanez By Points",
+            "+365"
+          ],
+          [
+            "Adrian Yanez By Submission",
+            "+2200"
+          ],
+          [
+            "Daniel Marcos By Ko/tko Or Dq",
+            "+185"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Adrian Yanez By Ko/tko Or Dq",
+            "+325"
+          ],
+          [
+            "Daniel Marcos By Points",
+            "+175"
+          ],
+          [
+            "Daniel Marcos By Submission",
+            "+3000"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Adrian Yanez In Round 1",
+            "+800"
+          ],
+          [
+            "Adrian Yanez In Round 3",
+            "+1400"
+          ],
+          [
+            "Daniel Marcos In Round 1",
+            "+475"
+          ],
+          [
+            "Daniel Marcos In Round 3",
+            "+750"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Adrian Yanez In Round 2",
+            "+1000"
+          ],
+          [
+            "Adrian Yanez By Points",
+            "+365"
+          ],
+          [
+            "Daniel Marcos In Round 2",
+            "+575"
+          ],
+          [
+            "Daniel Marcos By Points",
+            "+175"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Adrian Yanez In Round 1 By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Adrian Yanez In Round 3 By Ko/tko Or Dq",
+            "+1600"
+          ],
+          [
+            "Adrian Yanez In Round 2 By Submission",
+            "+5000"
+          ],
+          [
+            "Adrian Yanez By Points",
+            "+365"
+          ],
+          [
+            "Daniel Marcos In Round 2 By Ko/tko Or Dq",
+            "+600"
+          ],
+          [
+            "Daniel Marcos In Round 1 By Submission",
+            "+6000"
+          ],
+          [
+            "Daniel Marcos In Round 3 By Submission",
+            "+7500"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Adrian Yanez In Round 2 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Adrian Yanez In Round 1 By Submission",
+            "+4500"
+          ],
+          [
+            "Adrian Yanez In Round 3 By Submission",
+            "+6000"
+          ],
+          [
+            "Daniel Marcos In Round 1 By Ko/tko Or Dq",
+            "+500"
+          ],
+          [
+            "Daniel Marcos In Round 3 By Ko/tko Or Dq",
+            "+800"
+          ],
+          [
+            "Daniel Marcos In Round 2 By Submission",
+            "+6500"
+          ],
+          [
+            "Daniel Marcos By Points",
+            "+175"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Adrian Yanez",
+            "+105"
+          ],
+          [
+            "Daniel Marcos",
+            "-135"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Adrian Yanez 3.5 Pts",
+            "-150"
+          ],
+          [
+            "Daniel Marcos -3.5 Pts",
+            "+120"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Adrian Yanez",
+            "+305"
+          ],
+          [
+            "Goes To Decision",
+            "-110"
+          ],
+          [
+            "Daniel Marcos",
+            "+180"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+450"
+          ],
+          [
+            "No",
+            "-700"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Adrian Yanez Wins By Unanimous Decision",
+            "+400"
+          ],
+          [
+            "Daniel Marcos Wins By Unanimous Decision",
+            "+205"
+          ],
+          [
+            "Adrian Yanez Wins By Split Or Majority Decision",
+            "+850"
+          ],
+          [
+            "Daniel Marcos Wins By Split Or Majority Decision",
+            "+700"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 08:00 PM",
+    "participant1": "Dustin Jacoby",
+    "participant2": "Vitor Petrino",
+    "marketOdds": [
+      {
+        "participantName": "Dustin Jacoby",
+        "oddsValue": "+270"
+      },
+      {
+        "participantName": "Vitor Petrino",
+        "oddsValue": "-330"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534777",
+    "overUnder": [
+      {
+        "participantName": "O 1.5",
+        "oddsValue": "-200"
+      },
+      {
+        "participantName": "U 1.5",
+        "oddsValue": "+160"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "+170"
+          ],
+          [
+            "No",
+            "-210"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Vitor Petrino By Points",
+            "+285"
+          ],
+          [
+            "Vitor Petrino By Submission",
+            "+550"
+          ],
+          [
+            "Dustin Jacoby By Ko/tko Or Dq",
+            "+600"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Vitor Petrino By Ko/tko Or Dq",
+            "+110"
+          ],
+          [
+            "Dustin Jacoby By Points",
+            "+500"
+          ],
+          [
+            "Dustin Jacoby By Submission",
+            "+2500"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Vitor Petrino In Round 1",
+            "+275"
+          ],
+          [
+            "Vitor Petrino In Round 3",
+            "+500"
+          ],
+          [
+            "Dustin Jacoby In Round 1",
+            "+1000"
+          ],
+          [
+            "Dustin Jacoby In Round 3",
+            "+1600"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Vitor Petrino In Round 2",
+            "+375"
+          ],
+          [
+            "Vitor Petrino By Points",
+            "+285"
+          ],
+          [
+            "Dustin Jacoby In Round 2",
+            "+1400"
+          ],
+          [
+            "Dustin Jacoby By Points",
+            "+500"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Vitor Petrino In Round 1 By Ko/tko Or Dq",
+            "+375"
+          ],
+          [
+            "Vitor Petrino In Round 3 By Ko/tko Or Dq",
+            "+625"
+          ],
+          [
+            "Vitor Petrino In Round 2 By Submission",
+            "+1600"
+          ],
+          [
+            "Vitor Petrino By Points",
+            "+285"
+          ],
+          [
+            "Dustin Jacoby In Round 2 By Ko/tko Or Dq",
+            "+2000"
+          ],
+          [
+            "Dustin Jacoby In Round 1 By Submission",
+            "+5000"
+          ],
+          [
+            "Dustin Jacoby In Round 3 By Submission",
+            "+6500"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Vitor Petrino In Round 2 By Ko/tko Or Dq",
+            "+475"
+          ],
+          [
+            "Vitor Petrino In Round 1 By Submission",
+            "+1300"
+          ],
+          [
+            "Vitor Petrino In Round 3 By Submission",
+            "+2000"
+          ],
+          [
+            "Dustin Jacoby In Round 1 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Dustin Jacoby In Round 3 By Ko/tko Or Dq",
+            "+2500"
+          ],
+          [
+            "Dustin Jacoby In Round 2 By Submission",
+            "+5500"
+          ],
+          [
+            "Dustin Jacoby By Points",
+            "+500"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Vitor Petrino",
+            "-700"
+          ],
+          [
+            "Dustin Jacoby",
+            "+450"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Vitor Petrino -3.5 Pts",
+            "-170"
+          ],
+          [
+            "Dustin Jacoby 3.5 Pts",
+            "+140"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Vitor Petrino",
+            "-145"
+          ],
+          [
+            "Goes To Decision",
+            "+170"
+          ],
+          [
+            "Dustin Jacoby",
+            "+500"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "-155"
+          ],
+          [
+            "Goes The Distance",
+            "+170"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+575"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+600"
+          ],
+          [
+            "No",
+            "-1000"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Vitor Petrino Wins By Unanimous Decision",
+            "+340"
+          ],
+          [
+            "Dustin Jacoby Wins By Unanimous Decision",
+            "+550"
+          ],
+          [
+            "Vitor Petrino Wins By Split Or Majority Decision",
+            "+1200"
+          ],
+          [
+            "Dustin Jacoby Wins By Split Or Majority Decision",
+            "+1300"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 08:25 PM",
+    "participant1": "Bruno Silva",
+    "participant2": "Manel Kape",
+    "marketOdds": [
+      {
+        "participantName": "Bruno Silva",
+        "oddsValue": "+300"
+      },
+      {
+        "participantName": "Manel Kape",
+        "oddsValue": "-365"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490534783",
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-185"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+155"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "-160"
+          ],
+          [
+            "No",
+            "+130"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Manel Kape By Points",
+            "-120"
+          ],
+          [
+            "Manel Kape By Submission",
+            "+1400"
+          ],
+          [
+            "Bruno Silva By Ko/tko Or Dq",
+            "+1000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Manel Kape By Ko/tko Or Dq",
+            "+275"
+          ],
+          [
+            "Bruno Silva By Points",
+            "+425"
+          ],
+          [
+            "Bruno Silva By Submission",
+            "+1200"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Manel Kape In Round 1",
+            "+600"
+          ],
+          [
+            "Manel Kape In Round 3",
+            "+1000"
+          ],
+          [
+            "Bruno Silva In Round 1",
+            "+1000"
+          ],
+          [
+            "Bruno Silva In Round 3",
+            "+2000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Manel Kape In Round 2",
+            "+750"
+          ],
+          [
+            "Manel Kape By Points",
+            "-120"
+          ],
+          [
+            "Bruno Silva In Round 2",
+            "+1500"
+          ],
+          [
+            "Bruno Silva By Points",
+            "+425"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Manel Kape In Round 1 By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Manel Kape In Round 3 By Ko/tko Or Dq",
+            "+1400"
+          ],
+          [
+            "Manel Kape In Round 2 By Submission",
+            "+2500"
+          ],
+          [
+            "Manel Kape By Points",
+            "-120"
+          ],
+          [
+            "Bruno Silva In Round 2 By Ko/tko Or Dq",
+            "+2000"
+          ],
+          [
+            "Bruno Silva In Round 1 By Submission",
+            "+2500"
+          ],
+          [
+            "Bruno Silva In Round 3 By Submission",
+            "+4000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Manel Kape In Round 2 By Ko/tko Or Dq",
+            "+1100"
+          ],
+          [
+            "Manel Kape In Round 1 By Submission",
+            "+2000"
+          ],
+          [
+            "Manel Kape In Round 3 By Submission",
+            "+3300"
+          ],
+          [
+            "Bruno Silva In Round 1 By Ko/tko Or Dq",
+            "+1500"
+          ],
+          [
+            "Bruno Silva In Round 3 By Ko/tko Or Dq",
+            "+2500"
+          ],
+          [
+            "Bruno Silva In Round 2 By Submission",
+            "+3300"
+          ],
+          [
+            "Bruno Silva By Points",
+            "+425"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Manel Kape",
+            "-500"
+          ],
+          [
+            "Bruno Silva",
+            "+350"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Manel Kape -3.5 Pts",
+            "-140"
+          ],
+          [
+            "Bruno Silva 3.5 Pts",
+            "+110"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Manel Kape",
+            "+180"
+          ],
+          [
+            "Goes To Decision",
+            "-160"
+          ],
+          [
+            "Bruno Silva",
+            "+550"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+185"
+          ],
+          [
+            "Goes The Distance",
+            "-160"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+525"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+450"
+          ],
+          [
+            "No",
+            "-700"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Manel Kape Wins By Unanimous Decision",
+            "-105"
+          ],
+          [
+            "Bruno Silva Wins By Unanimous Decision",
+            "+475"
+          ],
+          [
+            "Manel Kape Wins By Split Or Majority Decision",
+            "+900"
+          ],
+          [
+            "Bruno Silva Wins By Split Or Majority Decision",
+            "+1200"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 08:50 PM",
+    "participant1": "Billy Quarantillo",
+    "participant2": "Cub Swanson",
+    "marketOdds": [
+      {
+        "participantName": "Billy Quarantillo",
+        "oddsValue": "-146"
+      },
+      {
+        "participantName": "Cub Swanson",
+        "oddsValue": "+126"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490552196",
+    "overUnder": [
+      {
+        "participantName": "O 2.5",
+        "oddsValue": "-135"
+      },
+      {
+        "participantName": "U 2.5",
+        "oddsValue": "+105"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "-115"
+          ],
+          [
+            "No",
+            "-115"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Cub Swanson By Points",
+            "+300"
+          ],
+          [
+            "Cub Swanson By Submission",
+            "+1800"
+          ],
+          [
+            "Billy Quarantillo By Ko/tko Or Dq",
+            "+275"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Cub Swanson By Ko/tko Or Dq",
+            "+400"
+          ],
+          [
+            "Billy Quarantillo By Points",
+            "+235"
+          ],
+          [
+            "Billy Quarantillo By Submission",
+            "+500"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Cub Swanson In Round 1",
+            "+800"
+          ],
+          [
+            "Cub Swanson In Round 3",
+            "+1200"
+          ],
+          [
+            "Billy Quarantillo In Round 1",
+            "+450"
+          ],
+          [
+            "Billy Quarantillo In Round 3",
+            "+700"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Cub Swanson In Round 2",
+            "+1000"
+          ],
+          [
+            "Cub Swanson By Points",
+            "+300"
+          ],
+          [
+            "Billy Quarantillo In Round 2",
+            "+550"
+          ],
+          [
+            "Billy Quarantillo By Points",
+            "+235"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Cub Swanson In Round 1 By Ko/tko Or Dq",
+            "+1000"
+          ],
+          [
+            "Cub Swanson In Round 3 By Ko/tko Or Dq",
+            "+1500"
+          ],
+          [
+            "Cub Swanson In Round 2 By Submission",
+            "+4500"
+          ],
+          [
+            "Cub Swanson By Points",
+            "+300"
+          ],
+          [
+            "Billy Quarantillo In Round 2 By Ko/tko Or Dq",
+            "+850"
+          ],
+          [
+            "Billy Quarantillo In Round 1 By Submission",
+            "+1300"
+          ],
+          [
+            "Billy Quarantillo In Round 3 By Submission",
+            "+2000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Cub Swanson In Round 2 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Cub Swanson In Round 1 By Submission",
+            "+4000"
+          ],
+          [
+            "Cub Swanson In Round 3 By Submission",
+            "+5500"
+          ],
+          [
+            "Billy Quarantillo In Round 1 By Ko/tko Or Dq",
+            "+700"
+          ],
+          [
+            "Billy Quarantillo In Round 3 By Ko/tko Or Dq",
+            "+1000"
+          ],
+          [
+            "Billy Quarantillo In Round 2 By Submission",
+            "+1600"
+          ],
+          [
+            "Billy Quarantillo By Points",
+            "+235"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Cub Swanson",
+            "+150"
+          ],
+          [
+            "Billy Quarantillo",
+            "-180"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Cub Swanson",
+            "+340"
+          ],
+          [
+            "Goes To Decision",
+            "-115"
+          ],
+          [
+            "Billy Quarantillo",
+            "+175"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+145"
+          ],
+          [
+            "Goes The Distance",
+            "-115"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+450"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+400"
+          ],
+          [
+            "No",
+            "-600"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Cub Swanson Wins By Unanimous Decision",
+            "+345"
+          ],
+          [
+            "Billy Quarantillo Wins By Unanimous Decision",
+            "+315"
+          ],
+          [
+            "Cub Swanson Wins By Split Or Majority Decision",
+            "+850"
+          ],
+          [
+            "Billy Quarantillo Wins By Split Or Majority Decision",
+            "+800"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Dec 14, 09:15 PM",
+    "participant1": "Joaquin Buckley",
+    "participant2": "Colby Covington",
+    "marketOdds": [
+      {
+        "participantName": "Joaquin Buckley",
+        "oddsValue": "-265"
+      },
+      {
+        "participantName": "Colby Covington",
+        "oddsValue": "+225"
+      }
+    ],
+    "detailLink": "https://sports.betonline.ag/sportsbook/martial-arts/mma/game/490552194",
+    "overUnder": [
+      {
+        "participantName": "O 4.5",
+        "oddsValue": "-150"
+      },
+      {
+        "participantName": "U 4.5",
+        "oddsValue": "+120"
+      }
+    ],
+    "additionalMarkets": [
+      {
+        "marketName": "Goes the Distance",
+        "oddsData": [
+          [
+            "Yes",
+            "-135"
+          ],
+          [
+            "No",
+            "+105"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method of Victory",
+        "oddsData": [
+          [
+            "Colby Covington By Points",
+            "+325"
+          ],
+          [
+            "Colby Covington By Submission",
+            "+1400"
+          ],
+          [
+            "Joaquin Buckley By Ko/tko Or Dq",
+            "+145"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Colby Covington By Ko/tko Or Dq",
+            "+900"
+          ],
+          [
+            "Joaquin Buckley By Points",
+            "+160"
+          ],
+          [
+            "Joaquin Buckley By Submission",
+            "+2000"
+          ]
+        ]
+      },
+      {
+        "marketName": "Round Betting",
+        "oddsData": [
+          [
+            "Colby Covington In Round 1",
+            "+1800"
+          ],
+          [
+            "Colby Covington In Round 3",
+            "+2800"
+          ],
+          [
+            "Colby Covington In Round 5",
+            "+3800"
+          ],
+          [
+            "Joaquin Buckley In Round 1",
+            "+500"
+          ],
+          [
+            "Joaquin Buckley In Round 3",
+            "+900"
+          ],
+          [
+            "Joaquin Buckley In Round 5",
+            "+1500"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Colby Covington In Round 2",
+            "+2200"
+          ],
+          [
+            "Colby Covington In Round 4",
+            "+3300"
+          ],
+          [
+            "Colby Covington By Points",
+            "+325"
+          ],
+          [
+            "Joaquin Buckley In Round 2",
+            "+700"
+          ],
+          [
+            "Joaquin Buckley In Round 4",
+            "+1100"
+          ],
+          [
+            "Joaquin Buckley By Points",
+            "+160"
+          ]
+        ]
+      },
+      {
+        "marketName": "Method + Round",
+        "oddsData": [
+          [
+            "Colby Covington In Round 1 By Ko/tko Or Dq",
+            "+2500"
+          ],
+          [
+            "Colby Covington In Round 3 By Ko/tko Or Dq",
+            "+3300"
+          ],
+          [
+            "Colby Covington In Round 5 By Ko/tko Or Dq",
+            "+4500"
+          ],
+          [
+            "Colby Covington In Round 2 By Submission",
+            "+3300"
+          ],
+          [
+            "Colby Covington In Round 4 By Submission",
+            "+4000"
+          ],
+          [
+            "Colby Covington By Points",
+            "+325"
+          ],
+          [
+            "Joaquin Buckley In Round 2 By Ko/tko Or Dq",
+            "+800"
+          ],
+          [
+            "Joaquin Buckley In Round 4 By Ko/tko Or Dq",
+            "+1200"
+          ],
+          [
+            "Joaquin Buckley In Round 1 By Submission",
+            "+4000"
+          ],
+          [
+            "Joaquin Buckley In Round 3 By Submission",
+            "+5000"
+          ],
+          [
+            "Joaquin Buckley In Round 5 By Submission",
+            "+6000"
+          ],
+          [
+            "Draw",
+            "+6600"
+          ],
+          [
+            "Colby Covington In Round 2 By Ko/tko Or Dq",
+            "+2800"
+          ],
+          [
+            "Colby Covington In Round 4 By Ko/tko Or Dq",
+            "+3800"
+          ],
+          [
+            "Colby Covington In Round 1 By Submission",
+            "+2800"
+          ],
+          [
+            "Colby Covington In Round 3 By Submission",
+            "+3800"
+          ],
+          [
+            "Colby Covington In Round 5 By Submission",
+            "+5000"
+          ],
+          [
+            "Joaquin Buckley In Round 1 By Ko/tko Or Dq",
+            "+575"
+          ],
+          [
+            "Joaquin Buckley In Round 3 By Ko/tko Or Dq",
+            "+1000"
+          ],
+          [
+            "Joaquin Buckley In Round 5 By Ko/tko Or Dq",
+            "+1600"
+          ],
+          [
+            "Joaquin Buckley In Round 2 By Submission",
+            "+4500"
+          ],
+          [
+            "Joaquin Buckley In Round 4 By Submission",
+            "+5500"
+          ],
+          [
+            "Joaquin Buckley By Points",
+            "+160"
+          ]
+        ]
+      },
+      {
+        "marketName": "Win Inside Distance - Goes Distance = No Action",
+        "oddsData": [
+          [
+            "Colby Covington",
+            "+325"
+          ],
+          [
+            "Joaquin Buckley",
+            "-450"
+          ]
+        ]
+      },
+      {
+        "marketName": "Point Spread",
+        "oddsData": [
+          [
+            "Colby Covington 5.5 Pts",
+            "-110"
+          ],
+          [
+            "Joaquin Buckley -5.5 Pts",
+            "-120"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fighter Wins Inside Distance",
+        "oddsData": [
+          [
+            "Colby Covington",
+            "+750"
+          ],
+          [
+            "Goes To Decision",
+            "-135"
+          ],
+          [
+            "Joaquin Buckley",
+            "+130"
+          ]
+        ]
+      },
+      {
+        "marketName": "How Will Fight End",
+        "oddsData": [
+          [
+            "Either Fighter By Ko/tko Or Dq",
+            "+125"
+          ],
+          [
+            "Goes The Distance",
+            "-135"
+          ],
+          [
+            "Either Fighter By Submission",
+            "+800"
+          ]
+        ]
+      },
+      {
+        "marketName": "Fight Goes to Split Decision",
+        "oddsData": [
+          [
+            "Yes",
+            "+400"
+          ],
+          [
+            "No",
+            "-600"
+          ]
+        ]
+      },
+      {
+        "marketName": "Decision Method of Victory",
+        "oddsData": [
+          [
+            "Colby Covington Wins By Unanimous Decision",
+            "+375"
+          ],
+          [
+            "Joaquin Buckley Wins By Unanimous Decision",
+            "+190"
+          ],
+          [
+            "Colby Covington Wins By Split Or Majority Decision",
+            "+900"
+          ],
+          [
+            "Joaquin Buckley Wins By Split Or Majority Decision",
+            "+700"
+          ]
+        ]
+      }
+    ]
+  }
+]
